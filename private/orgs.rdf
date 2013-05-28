@@ -1,0 +1,1986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:poder="http://poderopedia.com/vocab/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/25">
+    <poder:alias>Sociedad Inmobiliaria e Inversiones Francarovaro Ltda</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/457">
+    <poder:alias>Red social Hop.in</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/338">
+    <poder:alias>Bienes Nacionales de Punta Arenas</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/89">
+    <poder:alias>Inversiones y Asesorías LATRI Ltda.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/287">
+    <poder:alias>Municipalidad de Puerto Montt</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/271">
+    <poder:alias>Centro de Estudios de la Mujer</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/374">
+    <poder:alias>Universidad de Harvard</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/78">
+    <poder:alias>Club de Golf Las Rocas de Santo Domingo S.A</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/260">
+    <poder:alias>Hospital San Juan de Dios</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/439">
+    <poder:alias>Comunidad Mujer</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/356">
+    <poder:alias>English High School</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/320">
+    <poder:alias>Universidad de Lovaina, Bélgica</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/340">
+    <poder:alias>Liceo José Miguel Carrera</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/65">
+    <poder:alias>Fundación País Digital</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/253">
+    <poder:alias>Organización de Pequeños Agricultores Ribera Sur</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/98">
+    <poder:alias>Inmobiliaria e Inversiones Nuevas Raíces S.A.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/417">
+    <poder:alias>Banco Interamericano de Desarrollo</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/6">
+    <poder:alias>Ministerio de Relaciones Exteriores</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/466">
+    <poder:alias>Inversiones Santa Valeria Ltda.</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+    <poder:hasSocialReason>Inversiones Santa Valeria Ltda.</poder:hasSocialReason>
+    <poder:hasTaxId>77.652.060-8 </poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/418">
+    <poder:alias>Constructora e Inmobiliaria Toltén</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/163">
+    <poder:alias>Intendencia de Santiago</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/476">
+    <poder:alias>Clínica Iquique</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/49">
+    <poder:alias>Club de Polo Las Mercedes</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/364">
+    <poder:alias>Intendencia Metropolitana</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/172">
+    <poder:alias>Empresa De Servicios Sanitarios De Tarapaca (Essat)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/161">
+    <poder:alias>Instituto Nacional de Salud de México </poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/148">
+    <poder:alias>Universidad de Valparaíso</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/185">
+    <poder:alias>Universidad de Chicago, Estados Unidos</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/256">
+    <poder:alias>Partido por la Democracia (PPD)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/233">
+    <poder:alias>Centro Latinoamericano para el Desarrollo Rural (Rimisp )</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/115">
+    <poder:alias>Liceo N°1 de Niñas</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:hasSocialReason></poder:hasSocialReason>
+    <poder:hasTaxId></poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/401">
+    <poder:alias>Asociación de Aseguradores de Chile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/389">
+    <poder:alias>Canal 13</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/46">
+    <poder:alias>Agrícola Las Rosas</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/103">
+    <poder:alias>Inversiones Walker y Cia.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/290">
+    <poder:alias>Colegio San Agustín</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/206">
+    <poder:alias>Universidad de Viena, Austria</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/55">
+    <poder:alias>Comunidad Kuschel Silva</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/368">
+    <poder:alias>Universidad del Pacífico</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/426">
+    <poder:alias>AntarChile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/273">
+    <poder:alias>Instituto Nacional José Miguel Carrera</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/72">
+    <poder:alias>Inversiones y Mandatos S.A</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/427">
+    <poder:alias>Tironi y Asociados</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+    <poder:hasSocialReason>Tironi y Asociados Sociedad Anónima</poder:hasSocialReason>
+    <poder:hasTaxId>78488290-K</poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/236">
+    <poder:alias>Instituto de Normalización Provisional (INP), </poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/197">
+    <poder:alias>Subsecretaría de Telecomunicaciones</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/187">
+    <poder:alias>Municipalidad de Maipú</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/66">
+    <poder:alias>Fundación Jaime Guzmán</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/469">
+    <poder:alias>Almendral S.A.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/390">
+    <poder:alias>Sociedad Nacional de Agricultura</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/295">
+    <poder:alias>Fondo de las Naciones Unidas para la Infancia (Unicef)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/323">
+    <poder:alias>Claro y Cía.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/125">
+    <poder:alias>Universidad Oberta de Catalunya, Barcelona, España</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/438">
+    <poder:alias>Programa Explora de CONICYT</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/238">
+    <poder:alias>Consejo de Defensa del Estado de Chile (CDE).</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/48">
+    <poder:alias>Cámara de Diputados de Chile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/399">
+    <poder:alias>Chilevisión</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/454">
+    <poder:alias>Museo Interactivo Mirador (MIM)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/468">
+    <poder:alias>Pucobre</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/355">
+    <poder:alias>Centro de Alumnos de la Facultad de Derecho de la Pontificia Universidad Católica de Chile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/146">
+    <poder:alias>Instituto Rafael Ariztía de Quillota</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/318">
+    <poder:alias>Forestal, Constructora y Comercial del  Pacífico Sur S.A. (PASUR)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/196">
+    <poder:alias>Ministerio de Transportes </poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/219">
+    <poder:alias>Juventud Comunista</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/31">
+    <poder:alias>Espina y Cia. Ltda</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/182">
+    <poder:alias>Gobierno Regional Metropolitano</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/247">
+    <poder:alias>Intendencia de la Araucanía</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/400">
+    <poder:alias>Isapre Cruz Blanca</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/87">
+    <poder:alias>Sociedad Agrícola Konavle Ltda.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/102">
+    <poder:alias>Asesorías e Inversiones W y E Ltda.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/425">
+    <poder:alias>Entel</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/328">
+    <poder:alias>Ossandón Corredores Asociados</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/13">
+    <poder:alias>Soc.Com.Dist.Bories Ltda</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+    <poder:hasSocialReason>Soc.Com.Dist.Bories Ltda</poder:hasSocialReason>
+    <poder:hasTaxId></poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/408">
+    <poder:alias>Cuerpo de Bomberos de Santiago</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/351">
+    <poder:alias>Movimiento Gremial</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/448">
+    <poder:alias>Universidad de Friburgo, Alemania</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/AcademicOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/285">
+    <poder:alias>Sociedad Agrícola y Ganadera de Osorno</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/153">
+    <poder:alias>Partido Socialista</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/286">
+    <poder:alias>Dirección de Promoción de Exportaciones (ProChile)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/223">
+    <poder:alias>Corporación Nacional del Cobre (Codelco)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/93">
+    <poder:alias>Inmobiliaria Nabatieh S.A</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/122">
+    <poder:alias>Renovación Nacional</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/222">
+    <poder:alias>Universidad de Pittsburgh</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/249">
+    <poder:alias>Cristalerías Chile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/494">
+    <poder:alias>Novoa Abogados. Estudio Jurídico</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/378">
+    <poder:alias>Compañía Chilena de Fósforos</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/205">
+    <poder:alias>Servicio Nacional de la Mujer de Chile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/203">
+    <poder:alias>Secretaría Regional Ministerial de Chile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/215">
+    <poder:alias>Ministerio de Hacienda</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/94">
+    <poder:alias>Forestal Peñuelas Cabrero S.A</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/451">
+    <poder:alias>Fundación Integra</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/365">
+    <poder:alias>Asociación Chilena de Municipalidades</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/201">
+    <poder:alias>Municipalidad de La Florida</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/456">
+    <poder:alias>Fundación Artesanías de Chile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/227">
+    <poder:alias>Puerto Madero Impresores</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/32">
+    <poder:alias>Inversiones y rentas El Peral Ltda</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/375">
+    <poder:alias>B2O comunicaciones</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/12">
+    <poder:alias>Fundación Paz Ciudadana</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/304">
+    <poder:alias>Saint George's College</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:hasSocialReason>Saint George's College</poder:hasSocialReason>
+    <poder:hasTaxId>82161000-1</poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/489">
+    <poder:alias>Banco Penta</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/67">
+    <poder:alias>Inmobiliaria Peñina S.A.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/200">
+    <poder:alias>Consejo del Arte y la Industria Audiovisual</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/393">
+    <poder:alias>Isapre ING</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/289">
+    <poder:alias>Centro de Estudio del Patrimonio Histórico de la Provincia de Llanquihue (Ceph)  </poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/191">
+    <poder:alias>Ministerio de Desarrollo Social, ex Mideplan</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/372">
+    <poder:alias>Colegio Verbo Divino</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/482">
+    <poder:alias>Constructora Inmobiliaria Magapoq</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/150">
+    <poder:alias>Empresas Melón S.A. </poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/395">
+    <poder:alias>Colbún S.A</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/376">
+    <poder:alias>Universidad de Los Andes</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/383">
+    <poder:alias>Club de Huasos de La Florida</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/441">
+    <poder:alias>Estudio Jurídico Rivadeneira González &amp; Zegers, Abogados</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/487">
+    <poder:alias>Penta Vida</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/344">
+    <poder:alias>Federación de Estudiantes de la Universidad de Concepción</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/246">
+    <poder:alias>Municipalidad de Temuco</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/350">
+    <poder:alias>Movimiento Amplio Social (MAS)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/407">
+    <poder:alias>Iglesia Católica</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/384">
+    <poder:alias>Banco de Talca</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/224">
+    <poder:alias>Universidad Uniacc</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/36">
+    <poder:alias>Presidencia de la República de Chile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/15">
+    <poder:alias>Inversiones Geonades y Cia. Ltda.</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+    <poder:hasSocialReason>Inversiones Geonades y Cia. Ltda.</poder:hasSocialReason>
+    <poder:hasTaxId></poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/105">
+    <poder:alias>Inmobiliaria Concordia S.A</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/183">
+    <poder:alias>Ministerio de Minería</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/316">
+    <poder:alias>Forus</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/312">
+    <poder:alias>Empresas CMPC</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:hasSocialReason></poder:hasSocialReason>
+    <poder:hasTaxId></poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/310">
+    <poder:alias>Andina-B</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/432">
+    <poder:alias>Postal Market</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/297">
+    <poder:alias> Liceo Manuel de Salas</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/371">
+    <poder:alias>Comunidad Judía</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/124">
+    <poder:alias>Escuela N°14 de Viña del Mar</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/296">
+    <poder:alias>Organización para la Cooperación y el Desarrollo Económico (OCDE)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/181">
+    <poder:alias>Ministerio de Educación</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/134">
+    <poder:alias>Universidad de Santiago</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/244">
+    <poder:alias>Municipalidad de Toltén</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/19">
+    <poder:alias>Municipalidad deTocopilla</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:hasSocialReason></poder:hasSocialReason>
+    <poder:hasTaxId></poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/382">
+    <poder:alias>Fundación Presidente Balmaceda</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/493">
+    <poder:alias>Feria Ganadera de Osorno</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/488">
+    <poder:alias>Penta Security</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/484">
+    <poder:alias>Inmobiliaria e Inversiones Alameda</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/9">
+    <poder:alias>Fundación Guayasamín</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+    <poder:hasSocialReason></poder:hasSocialReason>
+    <poder:hasTaxId></poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/157">
+    <poder:alias>Sigdo Koppers S.A.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/139">
+    <poder:alias>Colegio San Ignacio de El Bosque</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/346">
+    <poder:alias>Partido Amplio de la Izquierda Socialista (MAS) de la Octava Región</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/363">
+    <poder:alias>Universidad Andrés Bello</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/477">
+    <poder:alias>Colmédica, Colombia</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/459">
+    <poder:alias>Un Techo para Chile</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/419">
+    <poder:alias>Inmobiliaria Huechuraba</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/237">
+    <poder:alias>Servicio de Salud Metropolitano del Ambiente (Sesma).</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/52">
+    <poder:alias>Inmobiliaria GKD S.A.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/403">
+    <poder:alias>Axxion S.A.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/306">
+    <poder:alias>Empresa El Mercurio S.A.P</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/69">
+    <poder:alias>Municipalidad de Las Condes</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/58">
+    <poder:alias>Museo de Piedras Indígenas Monte Verde de Puerto Montt</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/216">
+    <poder:alias>Liceo Manuel de Salas</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/180">
+    <poder:alias>Ministerio Público</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/475">
+    <poder:alias>Help</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/472">
+    <poder:alias>Isapre Vida Tres</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/330">
+    <poder:alias>Universidad de Georgetown</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/474">
+    <poder:alias>Inversiones Clínicas Santa María</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:hasSocialReason></poder:hasSocialReason>
+    <poder:hasTaxId></poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/42">
+    <poder:alias>Agrícola Santa Denise Ltda</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/64">
+    <poder:alias>Transportes Vaal ltda.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/111">
+    <poder:alias>Dunalastair</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/447">
+    <poder:alias>Academia Chilena de la Lengua</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/424">
+    <poder:alias>Apple Chile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/120">
+    <poder:alias>Universidad Adolfo Ibáñez</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/38">
+    <poder:alias>Fundación Frei</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/75">
+    <poder:alias>Club de Golf Los Leones</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/41">
+    <poder:alias>Club de Polo Las Mercedes S.A</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/481">
+    <poder:alias>Empremédica, Peru</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/155">
+    <poder:alias>Escuela Wilhelm Pieck (actual Universidad de Rostock)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/47">
+    <poder:alias>VIña Machali Ltda.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/324">
+    <poder:alias>Opus Dei</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/339">
+    <poder:alias>Escuela Rafael Sanhueza </poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/53">
+    <poder:alias>Consejo Nacional para el Control de Estupefacientes</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/170">
+    <poder:alias>Gendarmería de Chile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/152">
+    <poder:alias>Juventud Renovación Nacional</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/213">
+    <poder:alias>Citra Ltda</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/35">
+    <poder:alias>Inversiones Saturno S.A</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/243">
+    <poder:alias>Universidad de la Frontera</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/192">
+    <poder:alias>Empresa Nacional del Petróleo, ENAP</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/463">
+    <poder:alias>Chilefilms</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/228">
+    <poder:alias>Vía Directa</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/366">
+    <poder:alias>Municipalidad de Puente Alto</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/254">
+    <poder:alias>Confederación de Productores Agrícolas de Chile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/44">
+    <poder:alias>Inversiones e Inmobiliaria</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/265">
+    <poder:alias>Sociedad Chilena de Enfermedades del Tórax y Tuberculosis</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/193">
+    <poder:alias>Cámara Chilena del Libro A. G.,</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/394">
+    <poder:alias>Radio Agricultura</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/327">
+    <poder:alias>Polla Chilena de Beneficiencia</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/283">
+    <poder:alias>Universidad de Los Lagos </poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/184">
+    <poder:alias>Televisión Nacional de Chile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/311">
+    <poder:alias>CCU</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/412">
+    <poder:alias>Club de Golf Santiago</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/437">
+    <poder:alias>Mall Parque Arauco</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/101">
+    <poder:alias>Instituto Libertad y Desarrollo (LYD)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/321">
+    <poder:alias>Larraín y Asociados Ltda</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/423">
+    <poder:alias>Lan Airlines</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/449">
+    <poder:alias>Universidad Mayor</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/AcademicOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/164">
+    <poder:alias>Subsecretaría de Salud</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/307">
+    <poder:alias>Fundación Andes</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/132">
+    <poder:alias>Universidad Miguel de Cervantes </poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/160">
+    <poder:alias>Club de Madrid</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/210">
+    <poder:alias>Ministerio de Obras Públicas</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/141">
+    <poder:alias>S. Matriz Chile B-D</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/188">
+    <poder:alias>Georgetown University</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/231">
+    <poder:alias>Municipalidad de Santiago</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/332">
+    <poder:alias>Centro de Investigaciones y Docencias Económicas (CIDE)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/406">
+    <poder:alias>Corporación Casa de Acogida del Amor Misericordioso</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/257">
+    <poder:alias>Colegio Alianza Francesa</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/177">
+    <poder:alias> Universidad de Salamanca, España</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/159">
+    <poder:alias>Compañía de Aceros del Pacífico (CAP).</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/207">
+    <poder:alias> Banco Interamericano de Desarrollo (BID)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/142">
+    <poder:alias>Banco de Chile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/322">
+    <poder:alias>Consorcio</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+    <poder:hasSocialReason>Consorcio Financiero S.A.</poder:hasSocialReason>
+    <poder:hasTaxId></poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/26">
+    <poder:alias>Sociedad Constructora Inmobiliaria e Inversiones Santa Magadalena</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/114">
+    <poder:alias>Facultad Latinoamericana de Ciencias Sociales (FLACSO)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/34">
+    <poder:alias>Corporación de Derecho Privado Ficed</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/370">
+    <poder:alias>Diario La Tercera</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/302">
+    <poder:alias>Programa Regional de Empleo de Naciones Unidas (PREALC)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/458">
+    <poder:alias>Universidad Diego Portales</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/AcademicOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/387">
+    <poder:alias> Universidad de Chicago</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/308">
+    <poder:alias>London School of Economics</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/4">
+    <poder:alias>Servicio Nacional de la Mujer</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/279">
+    <poder:alias>Sagrados Corazones de Alameda</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/421">
+    <poder:alias>Infinco</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+    <poder:hasSocialReason>Ingeniería Financiera y Comercial Ltda.</poder:hasSocialReason>
+    <poder:hasTaxId></poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/74">
+    <poder:alias>The Grange School S.A</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/88">
+    <poder:alias>Inversiones CAVTAT Ltda</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/83">
+    <poder:alias>Sociedad Palm Island S.A.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/369">
+    <poder:alias>Diario La Época</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:hasSocialReason></poder:hasSocialReason>
+    <poder:hasTaxId></poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/373">
+    <poder:alias>Colegio Saint Boniface de Bruselas</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/388">
+    <poder:alias>Grupo Tantauco</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/353">
+    <poder:alias>Club de La Unión</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/17">
+    <poder:alias>Haras San Patricio Ltda.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/179">
+    <poder:alias>Ministerio del Interior</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/7">
+    <poder:alias>Academia Judicial</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/198">
+    <poder:alias>Universidad Arcis</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/270">
+    <poder:alias>Escuela Nacional de Antropología e Historia de México</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/81">
+    <poder:alias>Municipalidad de San Joaquín</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/367">
+    <poder:alias>Instituto Hebreo</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/91">
+    <poder:alias>Banco Crédito e Inversiones</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/60">
+    <poder:alias>Fundación Democracia y desarrollo</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/396">
+    <poder:alias>Fundación Las Rosas</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/442">
+    <poder:alias>Philippi, Yrarrázaval, Pulido &amp; Brunner, Abogados</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/455">
+    <poder:alias>Fundación de Orquestas Juveniles e Infantiles</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/50">
+    <poder:alias>Inmobiiaria y Constructora Las Canteras</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/465">
+    <poder:alias></poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+    <poder:hasSocialReason>Inversiones Santa Valeria Ltda.</poder:hasSocialReason>
+    <poder:hasTaxId>77.652.060-8 </poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/96">
+    <poder:alias>Soc. de Transportes Talcamo Ltda.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/211">
+    <poder:alias>Latina Ltda</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/90">
+    <poder:alias>Centro de Estudios del Desarrollo (CED)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/422">
+    <poder:alias>Banco Citicorp</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/464">
+    <poder:alias>Empresas Banmédica </poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+    <poder:hasSocialReason>Banmédica S.A. </poder:hasSocialReason>
+    <poder:hasTaxId>96.528.990-9 </poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/3">
+    <poder:alias>Agrícola Los Sauces Ltda.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/225">
+    <poder:alias>Subsecretaría de Desarrollo Regional</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/326">
+    <poder:alias>Club de Golf Lomas de La Dehesa</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/440">
+    <poder:alias>Yrarrázaval, Ruiz-Tagle, Goldenberg, Lagos &amp; Silva Abogados</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+    <poder:hasSocialReason></poder:hasSocialReason>
+    <poder:hasTaxId></poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/171">
+    <poder:alias>Empresa de Servicios Sanitarios de la Tercera Región de Atacama (EMSSAT)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/92">
+    <poder:alias>Inv.Las Casas de Peñuelas Ltda.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/77">
+    <poder:alias>Blanco y Negro S.A</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/239">
+    <poder:alias>Comisión Nacional del Medio Ambiente (CONAMA)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/331">
+    <poder:alias>Walt Whitman High School en Maryland</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/33">
+    <poder:alias>Corporación Ficed</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/119">
+    <poder:alias>Liceo Luis Alberto Barrera de Punta Arenas</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/305">
+    <poder:alias>Consejo Nacional de Televisión (CNTV)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/341">
+    <poder:alias>Universidad de Concepción</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/199">
+    <poder:alias>Consejo Nacional de la Cultura</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/410">
+    <poder:alias>Bancard Inversiones Limitada</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/492">
+    <poder:alias>Fundación Teletón</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/149">
+    <poder:alias>Municipalidad de Limache</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/278">
+    <poder:alias>Universidad Purdue</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/261">
+    <poder:alias>Hospital Félix Bulnes</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/166">
+    <poder:alias>Banco Estado</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/208">
+    <poder:alias>Programa de las Naciones Unidas para el Desarrollo (PNUD)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/241">
+    <poder:alias>Instituto Claret de Temuco</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/452">
+    <poder:alias>Fundación de la Familia</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/79">
+    <poder:alias>Agricola El Maitén Ltda.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/430">
+    <poder:alias>Gestión Social S.A. </poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+    <poder:hasSocialReason>Gestión Social Sociedad Anónima </poder:hasSocialReason>
+    <poder:hasTaxId>96976600-0</poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/293">
+    <poder:alias>Organización Mundial del Trabajo (OIT) </poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/420">
+    <poder:alias>Constructora Aconcagua</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/348">
+    <poder:alias>Comité Central del Partido Socialista</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/144">
+    <poder:alias>Azul Azul</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/226">
+    <poder:alias>Empresa Periodistica La Nación S.A.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/281">
+    <poder:alias>Colegio San Francisco Javier de Puerto Montt</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/167">
+    <poder:alias>Servicio Médico Legal </poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/168">
+    <poder:alias>Ministerio de Salud</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/334">
+    <poder:alias>Instituto Latinoamericano de Estudios Transnacionales (ILET)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/444">
+    <poder:alias>Instituto Carlos Casanueva</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/AcademicOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/467">
+    <poder:alias>FFV Desarrollo Inmobiliario</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/362">
+    <poder:alias>Colegio Corazón de María de San Miguel</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/445">
+    <poder:alias>Fundación Mujer Emprende</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/129">
+    <poder:alias>Organización Demócrata Cristiana de América</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/435">
+    <poder:alias>Quiñenco</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/202">
+    <poder:alias>Subsecretaría de Transportes</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/480">
+    <poder:alias>Vida Tres Internacional</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/37">
+    <poder:alias>Fundación Nacional del Deporte</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/22">
+    <poder:alias>Inversiones Golconda S.A.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/264">
+    <poder:alias>Sociedad Chilena de Pediatría</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/56">
+    <poder:alias>Centro de Estudio del Patrimonio Histórico de la Provincia de Llanquihue CEPH</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/486">
+    <poder:alias>Universidad del Desarrollo</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/386">
+    <poder:alias>Colegio San Ignacio de Santiago</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/18">
+    <poder:alias>Municipalidad de Sierra Gorda</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/267">
+    <poder:alias>Sociedad Latinoamericana de Alergia e Inmunología</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/462">
+    <poder:alias>Perez de Arce Abogados</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/429">
+    <poder:alias>Inmobiliarias Las Américas S.A.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/385">
+    <poder:alias>Superintendente de Valores y Seguros</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/470">
+    <poder:alias>Empresas Penta</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+    <poder:hasSocialReason>Empresas Penta S.A. </poder:hasSocialReason>
+    <poder:hasTaxId>87.107.000-8 </poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/491">
+    <poder:alias>Fundación Imagen de Chile</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/121">
+    <poder:alias>Municipalidad de Punta Arenas</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/485">
+    <poder:alias>Inmobiliaria Apoquindo 3600</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:hasSocialReason></poder:hasSocialReason>
+    <poder:hasTaxId></poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/212">
+    <poder:alias>Ministerio de Transportes y Telecomunicaciones</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/162">
+    <poder:alias>Universidad John Hopkins, Estados Unidos</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/99">
+    <poder:alias>Asesoría e Inversiones SYG LTDA.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/314">
+    <poder:alias>Copec</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/82">
+    <poder:alias>Corporación La Esperanza</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/2">
+    <poder:alias>Fundación Salvador Allende</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/71">
+    <poder:alias>Estudio jurídico Guerrero Olivos Novoa y Errázuriz</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/73">
+    <poder:alias>Inmobiliaria MIraflores Ltda.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/336">
+    <poder:alias>Liceo Salesiano San José, Punta Arenas</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/450">
+    <poder:alias>Red de Fundaciones de la Presidencia de la República</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/116">
+    <poder:alias>Instituto Latinoamericano de Desarrollo y Estudios Sociales (ILADES)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/381">
+    <poder:alias>Sagrados Corazones de Manquehue</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/136">
+    <poder:alias>Instituto Chileno de estudios Humanísticos (ICHEH)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/479">
+    <poder:alias>Banmédica Internacional SPA, Colombia</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/343">
+    <poder:alias>Universidad Católica de Valparaíso</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/85">
+    <poder:alias>Municipalidad de Los Angeles</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/43">
+    <poder:alias>Alejandro García Huidobro Sanfuentes</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/151">
+    <poder:alias>Federación de Estudiantes de la Universidad de Valparaíso</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/313">
+    <poder:alias>Viña Concha y Toro S.A.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/104">
+    <poder:alias>Corporación de Estudios para Latinoamérica (CIEPLAN)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/145">
+    <poder:alias> Inmobiliaria 8 de septiembre Ltda</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/40">
+    <poder:alias>Golf Los Liros</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/347">
+    <poder:alias>Instituto Nacional de la Juventud de la Octava Región</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/70">
+    <poder:alias>Colegio de Abogados A.G de Punta Arenas</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/333">
+    <poder:alias>Instituto de Estudios Públicos de Washington </poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/230">
+    <poder:alias>Corporación de Investigación Económica para Latinoamérica (Cieplan)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/235">
+    <poder:alias>Rimisp - Centro Latinoamericano para el Desarrollo Rural</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/174">
+    <poder:alias>Ministerio del Trabajo y Previsión Social</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/16">
+    <poder:alias>Inmobiliaria 8 de septiembre Ltda</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/128">
+    <poder:alias>Liceo de Aplicación</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/329">
+    <poder:alias>Colegio Nido de Aguilas</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/250">
+    <poder:alias>Instituto O'Higgins de Rancagua</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/29">
+    <poder:alias>Frente por la Vida y Acción Solidaria</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/54">
+    <poder:alias>Fundación Padre Antonio Ronchi</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/300">
+    <poder:alias> Universidad de Chile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/483">
+    <poder:alias>Inmobiliaria Apoquindo</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:hasSocialReason></poder:hasSocialReason>
+    <poder:hasTaxId></poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/190">
+    <poder:alias>Municipalidad de Til Til</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:hasSocialReason></poder:hasSocialReason>
+    <poder:hasTaxId></poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/84">
+    <poder:alias>Inversiones Carolina Patricia</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/218">
+    <poder:alias>Juventud Comunista</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/298">
+    <poder:alias>Universidad de Duke</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/135">
+    <poder:alias>Juventud Demócrata Cristiana América Latina</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/173">
+    <poder:alias>Municipalidad de El Bosque</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/217">
+    <poder:alias>Partido Comunista</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/292">
+    <poder:alias>Universidad de Cambridge</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/11">
+    <poder:alias>Organización de las Naciones Unidas</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/280">
+    <poder:alias>Instituto Alemán de Frutillar</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/379">
+    <poder:alias>Municipalidad La Florida</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/284">
+    <poder:alias>Universidad Austral de Chile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/349">
+    <poder:alias>Movimiento Amplio Social (MAS)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/490">
+    <poder:alias>Bolsa de Comercio de Santiago</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/158">
+    <poder:alias>Sigdo Exportaciones</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/45">
+    <poder:alias>Sta Denise Ltda</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/221">
+    <poder:alias>Dirección de Presupuesto</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/194">
+    <poder:alias>Fondo Nacional de Fomento del Arte y la Cultura (FONDART)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/402">
+    <poder:alias>Consejo de Autorregulación de las Compañías de Seguros</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/380">
+    <poder:alias>Servicio Nacional de Turismo</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/405">
+    <poder:alias>Fundación Cultura y Sociedad</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/165">
+    <poder:alias>Fondo Nacional de Salud (Fonasa)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/262">
+    <poder:alias>Hospital Exequiel González Cortés</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/178">
+    <poder:alias>Servicio Nacional de Menores (Sename)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/242">
+    <poder:alias>Instituto Superior de Comercio de Temuco </poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/294">
+    <poder:alias>Dirección General Relaciones Económicas Internacionales (Direcon) </poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/431">
+    <poder:alias>Editorial Los Andes S.A.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/397">
+    <poder:alias>Clínica Santa María </poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/433">
+    <poder:alias>Sociedad de inversiones Calichera</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/337">
+    <poder:alias>Obispado de Punta Arenas</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/299">
+    <poder:alias>Universidad de Carolina del Norte</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/460">
+    <poder:alias>Fundación Chile</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/478">
+    <poder:alias>Sociedad Editorial para la Ciencia, Colombia</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/39">
+    <poder:alias>Navarino S.A</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/118">
+    <poder:alias>Independiente</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/5">
+    <poder:alias>Ministerio de Justicia</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/106">
+    <poder:alias>Sociedad Condominio Perouse ltda.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/62">
+    <poder:alias>Sociedad de Inversiones Los Peumos</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/471">
+    <poder:alias>Isapre Banmédica</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/20">
+    <poder:alias>Municipalidad de Calama</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/453">
+    <poder:alias>Fundación Prodemu</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/176">
+    <poder:alias>Escuela Domingo Matte Mesías de Puente Alto</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/117">
+    <poder:alias>Partido Demócrata Cristiano</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/76">
+    <poder:alias>Unión Inmobiliaria S.A</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/325">
+    <poder:alias>Ossandón Abogados</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/392">
+    <poder:alias>ICARE</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/1">
+    <poder:alias>Senado de la República de Chile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:hasSocialReason></poder:hasSocialReason>
+    <poder:hasTaxId></poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/415">
+    <poder:alias> Comisión Económica para América Latina </poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/436">
+    <poder:alias>Clínica Las Condes</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/342">
+    <poder:alias>Universidad Católica de la Santísima Concepción</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/252">
+    <poder:alias>Asociación de Agricultores de Requínoa</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/147">
+    <poder:alias>Colegio de los Sagrados Corazones de Viña del Mar</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/59">
+    <poder:alias>Doha asesorías intenacionales Ltda</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/377">
+    <poder:alias>Colegio Tabancura</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/248">
+    <poder:alias>Secretaría Regional Ministerial de Gobierno</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/68">
+    <poder:alias>Inmobiliaria Fontecilla Ltda.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:hasSocialReason></poder:hasSocialReason>
+    <poder:hasTaxId></poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/251">
+    <poder:alias>Colegio Sagrados Corazones de Manquehue</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/473">
+    <poder:alias>Vidaintegra</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/255">
+    <poder:alias>Partido Unión de Centro Centro Progresista</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/23">
+    <poder:alias>Chahuan abogados asociados Ltda</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/27">
+    <poder:alias>Farmacias Unidas Ltda</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/112">
+    <poder:alias>Universidad de Chile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/409">
+    <poder:alias>Fundación de Beneficencia Hogar de Cristo</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/234">
+    <poder:alias>Escuela de Altos Estudios en Ciencias Sociales, París</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/309">
+    <poder:alias>Salfa Corp.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/30">
+    <poder:alias>Estudio de Abogados Espina Zepeda y Acosta</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/154">
+    <poder:alias>Liceo N°6 de Hombres Andrés Bello</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/352">
+    <poder:alias>Unión de Partidos Latinoamericanos (UPLA)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/63">
+    <poder:alias>Consultora Asses</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/156">
+    <poder:alias>Instituto de Humanidades Luis Campino</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/137">
+    <poder:alias>Federación de Estudiantes de la Universidad Católica (FEUC)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/428">
+    <poder:alias>CMB S.A</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/143">
+    <poder:alias>Club Hípico de Santiago</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/229">
+    <poder:alias>Herbolaria de Chile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/113">
+    <poder:alias>Universidad Autónoma de México (UNAM)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/434">
+    <poder:alias>Compañía Sudamericana de Vapores</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/404">
+    <poder:alias>Fundación Futuro</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+    <poder:hasSocialReason>Fundación Futuro</poder:hasSocialReason>
+    <poder:hasTaxId>72.461.500-7</poder:hasTaxId>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/86">
+    <poder:alias>Sociedad agrícola Longomilla Ltda.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/24">
+    <poder:alias>Comercial e Industrial Noventa Chile LTDA</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/266">
+    <poder:alias>Sociedad Chilena de Alergia e Inmunología</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/275">
+    <poder:alias>Comisión Valech</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/175">
+    <poder:alias>Pastoral Obrera de Puente Alto</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/345">
+    <poder:alias>Comité Central de la Juventud Socialista</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/414">
+    <poder:alias>Sociedad Unión Inmobiliaria S.A.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/354">
+    <poder:alias>Facultad de derecho de la Pontificia Universidad Católica de Chile </poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/288">
+    <poder:alias>Partido Nacional</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/269">
+    <poder:alias>Municipalidad de Cerro Navia</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/127">
+    <poder:alias>Colegio San Lázaro</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/315">
+    <poder:alias>Enersis</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/335">
+    <poder:alias>Unión Interparlamentaria Mundial (UIP)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/8">
+    <poder:alias>Centro de Justicia de las Américas</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/204">
+    <poder:alias>Chiledeportes</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/140">
+    <poder:alias>Pontificia Universidad Católica de Chile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/100">
+    <poder:alias>Semillas Baer Ltda.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/110">
+    <poder:alias>La Maisonnett</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/126">
+    <poder:alias>Liceo Eduardo de la Barra de Valparaiso</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/240">
+    <poder:alias>Liceo Paula Jaraquemada</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/209">
+    <poder:alias>Helsinki University of Technology</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/258">
+    <poder:alias>Federación de Estudiantes de la Universidad de Chile (FECH)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/186">
+    <poder:alias>Holding Financiero Servimotor S.A.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/317">
+    <poder:alias>Coloso</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/28">
+    <poder:alias>Nueva Alianza Ltda</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/391">
+    <poder:alias>Asociación de Isapres</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/51">
+    <poder:alias>GyR consultores</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/259">
+    <poder:alias>Servicio de Salud Metropolitano del Ambiente (Sesma) </poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/232">
+    <poder:alias>Fondo de Solidaridad e Inversión Social (Fosis)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/245">
+    <poder:alias>Municipalidad de Lautaro</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/138">
+    <poder:alias>Unión Demócrata Independiente (UDI)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/220">
+    <poder:alias> Banco Sud Americano</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/416">
+    <poder:alias>Banco Mundial</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/61">
+    <poder:alias>Ministerio Secretaría General de Gobierno</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/14">
+    <poder:alias>Soc.Com.De.Produc.La.Natta.Ltda.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/169">
+    <poder:alias>Vicaría de la Solidaridad</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/57">
+    <poder:alias>Instituto Chileno de Investigaciones Genealógicas y Heráldicas de Chile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/398">
+    <poder:alias>Clínica Dávila</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/443">
+    <poder:alias>College Français Jeanne d'Arc</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/AcademicOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/189">
+    <poder:alias>Chile Deportes</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/446">
+    <poder:alias>Colegios Diaconales</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/10">
+    <poder:alias>Fundación  Instituto Chileno de Colonias Campamentos y Hogares de Menores</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/21">
+    <poder:alias>Comunidad Virtual de Gobernabilidad</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/95">
+    <poder:alias>Soc. de Transportes Cabrero Ltda.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/97">
+    <poder:alias>C. Cabrero Ltda.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/274">
+    <poder:alias>Subsecretaría de Justicia</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/461">
+    <poder:alias>Colegio San Francisco de Asís</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/AcademicOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/276">
+    <poder:alias>Fondo de Desarrollo para el Norte (Fondenor)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/301">
+    <poder:alias>Facultad Latinoamericana de Ciencias Sociales (FLACSO). </poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/413">
+    <poder:alias>Sociedad de Deportes Cachagua</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/411">
+    <poder:alias>Inversiones Bancorp Limitada</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/277">
+    <poder:alias>Colegio Alemán Santo Tomas Moros</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/80">
+    <poder:alias>Sociedad Manterola y Cia. abogados Ltda.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/282">
+    <poder:alias>Instituto de Estudios Bancarios Guillermo Subercaseaux</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/263">
+    <poder:alias>Sociedad Latinoamericana de Neumonología Pediátrica</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/272">
+    <poder:alias>Partido Radical Socialdemócrata (PRSD)</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/214">
+    <poder:alias>Sociedad Chilena de Ingenería en Transporte</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/268">
+    <poder:alias>Colegio Médico de Chile</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/195">
+    <poder:alias>Fundación Tiempos Nuevos</poder:alias>
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/123">
+    <poder:alias>Universidad Católica del Norte</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/291">
+    <poder:alias>Universidad de Sussex</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/107">
+    <poder:alias>Asesorías San Martín Ltda.</poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/303">
+    <poder:alias>Club de Madrid </poder:alias>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+</rdf:RDF>

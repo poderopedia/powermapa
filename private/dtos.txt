@@ -1,0 +1,8 @@
+Padre /Madre;Hijo/ Hija
+Hijo/ Hija;Padre /Madre
+Hermano /Hermana;Hermano /Hermana
+Sobrino /Sobrina;Tío / Tía
+Tío / Tía;Sobrino /Sobrina
+Primo/Prima;Primo/Prima
+Abuelo/Abuela;Nieto/Nieta
+Nieto/Nieta;Abuelo/Abuela

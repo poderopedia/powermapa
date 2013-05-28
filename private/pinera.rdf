@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:poder="http://poderopedia.com/vocab/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/407">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Iglesia Católica</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/941">
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/LongBiography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/932">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:alias>Elena Carvallo Castillo</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/417">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Banco Interamericano de Desarrollo</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/950">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:alias>María Elena Chadwick Piñera</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/927">
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/LongBiography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/372">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Colegio Verbo Divino</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/938">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <poder:firstLastName>Piñera</poder:firstLastName>
+    <poder:alias>Sebastián Piñera Morel</poder:alias>
+    <poder:otherLastName>Morel</poder:otherLastName>
+    <poder:hasLongBiography rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/938"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:firstName>Juan Sebastián</poder:firstName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/425">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Entel</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/420">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Constructora Aconcagua</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/395">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Colbún S.A</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/431">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Editorial Los Andes S.A.</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/939">
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/LongBiography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/409">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Fundación de Beneficencia Hogar de Cristo</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/938">
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/LongBiography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/373">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Colegio Saint Boniface de Bruselas</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/412">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Club de Golf Santiago</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/945">
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/LongBiography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/942">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <poder:firstLastName>Piñera</poder:firstLastName>
+    <poder:alias>Pablo Piñera</poder:alias>
+    <poder:otherLastName>Echenique</poder:otherLastName>
+    <poder:hasLongBiography rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/942"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:firstName>Juan Pablo</poder:firstName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/945">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <poder:firstLastName>Piñera</poder:firstLastName>
+    <poder:alias>Guadalupe Piñera</poder:alias>
+    <poder:otherLastName>Echenique</poder:otherLastName>
+    <poder:hasLongBiography rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/945"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:firstName>Guadalupe</poder:firstName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/36">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Presidencia de la República de Chile</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/122">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Renovación Nacional</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/433">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Sociedad de inversiones Calichera</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/399">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Chilevisión</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/1">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:hasTaxId></poder:hasTaxId>
+    <poder:hasSocialReason></poder:hasSocialReason>
+    <poder:alias>Senado de la República de Chile</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/941">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <poder:firstLastName>Piñera</poder:firstLastName>
+    <poder:alias>José Piñera</poder:alias>
+    <poder:otherLastName>Echenique</poder:otherLastName>
+    <poder:hasLongBiography rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/941"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:firstName>José Manuel</poder:firstName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/428">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>CMB S.A</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/418">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Constructora e Inmobiliaria Toltén</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/415">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias> Comisión Económica para América Latina </poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/948">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:alias>María Teresa Chadwick Piñera</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/437">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Mall Parque Arauco</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/947">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:alias>Herman Chadwick Piñera</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/421">
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/Company"/>
+    <poder:hasTaxId></poder:hasTaxId>
+    <poder:hasSocialReason>Ingeniería Financiera y Comercial Ltda.</poder:hasSocialReason>
+    <poder:alias>Infinco</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/943">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <poder:firstLastName>Piñera</poder:firstLastName>
+    <poder:alias>Miguel Piñera</poder:alias>
+    <poder:otherLastName>Echenique</poder:otherLastName>
+    <poder:hasLongBiography rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/943"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:firstName>José Miguel</poder:firstName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/906">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:firstName>Miguel Juan Sebastián</poder:firstName>
+    <poder:hasCousin rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/951"/>
+    <poder:hasCousin rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/949"/>
+    <poder:hasCousin rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/947"/>
+    <poder:hasCousin rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/950"/>
+    <poder:hasCousin rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/953"/>
+    <poder:hasCousin rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/686"/>
+    <poder:hasCousin rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/948"/>
+    <poder:hasCousin rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/952"/>
+    <poder:hasSibling rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/944"/>
+    <poder:hasSibling rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/941"/>
+    <poder:hasSibling rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/942"/>
+    <poder:hasSibling rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/940"/>
+    <poder:hasSibling rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/945"/>
+    <poder:hasSibling rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/943"/>
+    <poder:otherLastName>Echenique</poder:otherLastName>
+    <poder:hasParent rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/926"/>
+    <poder:hasParent rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/927"/>
+    <poder:hasAuntOrUncle rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/930"/>
+    <poder:hasAuntOrUncle rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/929"/>
+    <poder:hasAuntOrUncle rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/928"/>
+    <poder:hasGrandparent rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/932"/>
+    <poder:hasGrandparent rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/931"/>
+    <poder:hasGrandparent rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/933"/>
+    <poder:hasGrandparent rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/934"/>
+    <poder:firstLastName>Piñera</poder:firstLastName>
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <poder:hasLongBiography rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/906"/>
+    <poder:hasSpouse rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/935"/>
+    <poder:alias>Sebastián Piñera</poder:alias>
+    <poder:hasChild rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/936"/>
+    <poder:hasChild rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/939"/>
+    <poder:hasChild rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/937"/>
+    <poder:hasChild rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/938"/>
+    <poder:hasNieceOrNephew rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/1007"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/906">
+    <poder:hasSpouse rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/935"/>
+    <poder:academicParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/373"/>
+    <poder:academicParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/374"/>
+    <poder:academicParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/140"/>
+    <poder:academicParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/372"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/395"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/433"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/423"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/420"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/418"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/436"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/411"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/422"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/399"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/437"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/426"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/435"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/77"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/410"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/431"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/412"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/425"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/403"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/414"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/419"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/429"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/432"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/421"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/424"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/413"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/428"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/384"/>
+    <poder:hasEconomicOrganizationParticipant rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organization/434"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/927">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <poder:firstLastName>Echenique</poder:firstLastName>
+    <poder:alias>Magdalena  Echenique</poder:alias>
+    <poder:otherLastName>Rozas</poder:otherLastName>
+    <poder:hasLongBiography rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/927"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:firstName>Magdalena</poder:firstName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/414">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Sociedad Unión Inmobiliaria S.A.</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/940">
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/LongBiography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/939">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <poder:firstLastName>Piñera</poder:firstLastName>
+    <poder:alias>Cristóbal Piñera Morel</poder:alias>
+    <poder:otherLastName>Morel</poder:otherLastName>
+    <poder:hasLongBiography rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/939"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:hasTaxId>15.960.200-1</poder:hasTaxId>
+    <poder:firstName>Cristóbal</poder:firstName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/406">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Corporación Casa de Acogida del Amor Misericordioso</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/140">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Pontificia Universidad Católica de Chile</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/953">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:alias>María Margarita Chadwick Piñera</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/416">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Banco Mundial</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/424">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Apple Chile</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/423">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Lan Airlines</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/422">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Banco Citicorp</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/944">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <poder:firstLastName>Piñera</poder:firstLastName>
+    <poder:alias>Teresa Piñera</poder:alias>
+    <poder:otherLastName>Echenique</poder:otherLastName>
+    <poder:hasLongBiography rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/944"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:firstName>María Teresa </poder:firstName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/928">
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/LongBiography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/410">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Bancard Inversiones Limitada</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/413">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Sociedad de Deportes Cachagua</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/942">
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/LongBiography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/926">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <poder:firstLastName>Piñera</poder:firstLastName>
+    <poder:alias>Manuel José Piñera Carvallo</poder:alias>
+    <poder:otherLastName>Carvallo</poder:otherLastName>
+    <poder:hasLongBiography rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/926"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:firstName>Manuel José</poder:firstName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/937">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:alias>Cecilia Piñera Morel</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/429">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Inmobiliarias Las Américas S.A.</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/403">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Axxion S.A.</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/411">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Inversiones Bancorp Limitada</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/405">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Fundación Cultura y Sociedad</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/388">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Grupo Tantauco</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/940">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <poder:firstLastName>Piñera</poder:firstLastName>
+    <poder:alias>Magdalena Piñera</poder:alias>
+    <poder:otherLastName>Echenique</poder:otherLastName>
+    <poder:hasLongBiography rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/940"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:firstName>María Magdalena </poder:firstName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/408">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Cuerpo de Bomberos de Santiago</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/943">
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/LongBiography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/419">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Inmobiliaria Huechuraba</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/949">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:alias>Marie Paule Chadwick Piñera</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/686">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:alias>Andrés Chadwick</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/404">
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/NonGovernmentalOrganization"/>
+    <poder:hasTaxId>72.461.500-7</poder:hasTaxId>
+    <poder:hasSocialReason>Fundación Futuro</poder:hasSocialReason>
+    <poder:alias>Fundación Futuro</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/434">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Compañía Sudamericana de Vapores</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/436">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Clínica Las Condes</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/934">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:alias>Josefina Rozas Ariztía</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/374">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Universidad de Harvard</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/933">
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/LongBiography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/1007">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:alias>María Irene Chadwick Larraín</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/426">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>AntarChile</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/77">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Blanco y Negro S.A</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/929">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:alias>Marie Louise Piñera Carvallo</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/944">
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/LongBiography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/926">
+    <rdf:type rdf:resource="http://poderopedia.com/vocab/LongBiography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/933">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <poder:firstLastName>Echeñique</poder:firstLastName>
+    <poder:alias>Estanislao Echeñique Correa</poder:alias>
+    <poder:otherLastName>Correa</poder:otherLastName>
+    <poder:hasLongBiography rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/933"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:firstName>Estanislao</poder:firstName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/952">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:alias>María Carolina Chadwick Piñera</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/951">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:alias>María Trinidad Chadwick Piñera</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/432">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Postal Market</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/931">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:alias>José Manuel Piñera Figueroa</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/384">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Banco de Talca</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/928">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <poder:firstLastName>Piñera</poder:firstLastName>
+    <poder:alias>Bernardino Piñera Carvallo</poder:alias>
+    <poder:otherLastName>Carvallo</poder:otherLastName>
+    <poder:hasLongBiography rdf:resource="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/LongBiography/928"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:firstName>Bernardino</poder:firstName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/936">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:alias>Magdalena Piñera Morel</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/persona/930">
+    <poder:countryOfResidence rdf:resource="http://poderopedia.com/vocab/Chile"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <poder:alias>Paulette Piñera Carvallo</poder:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.hackatons.org/PowerMapa/plugin_rdf/ld/read/Organizacion/435">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <poder:alias>Quiñenco</poder:alias>
+  </rdf:Description>
+</rdf:RDF>

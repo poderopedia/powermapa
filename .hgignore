@@ -1,0 +1,11 @@
+syntax: glob
+.DS_Store
+*.pyc
+*.bak
+*~
+cache
+cron
+databases
+errors
+sessions
+uploads

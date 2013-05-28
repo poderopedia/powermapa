@@ -1,0 +1,887 @@
+persona.id,persona.firstName,persona.firstLastName,persona.otherLastName,persona.alias,persona.birth,persona.countryofResidence,persona.Mainsector,persona.depiction,persona.shortBio,persona.longBio,persona.isDead,persona.web,persona.twitterNick,persona.facebookNick,persona.linkedinNick,persona.is_active,persona.created_on,persona.created_by,persona.modified_on,persona.modified_by
+1,María Isabel,Allende,Bussi,Isabel Allende,1945-01-18,44,||,<NULL>,"Actual senadora del Partido Socialista (PS) por la Región de Atacama. Hija del ex presidente chileno Salvador Allende. Luego de la muerte de su padre en el golpe de Estado ocurrido en el año 1973,  estuvo exiliada junto a  su madre y hermanas,  primero en Cuba y luego en México, donde estuvo  dieciséis años  antes de volver a Chile en 1989, en el tramo final del Gobierno Militar.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+2,María Soledad,Alvear,Valenzuela,Soledad Alvear,1950-09-17,44,||,<NULL>,"Actual senadora por la Región Metropolitana de Santiago en representación del Partido Demócrata Cristiano. Fue la primera mujer en ocupar el cargo de canciller en la historia de Chile, durante el Gobierno de Ricardo Lagos. Además, fue precandidata de su partido para competir en las elecciones presidenciales del año 2005. Fue ministra directora del Sernam en el Gobierno del presidente Patricio Aylwin y ministra de Justicia en el Gobierno de Eduardo Frei Ruiz-Tagle.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+3,Carlos Antonio,Bianchi,Chelech,Carlos Bianchi,<NULL>,44,||,<NULL>,Actualmente es senador independiente por la circunscripción 19 de la Región de Magallanes y de la Antártica Chilena.,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+4,Carlos Raúl,Cantero,Ojeda,Carlos Cantero,1956-11-11,44,||,<NULL>,Senador Región de Antofagasta (2010-2018),,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+5,Juan Antonio,Coloma,Correa,Juan Antonio Coloma,1956-07-15,44,||,<NULL>,"Actual senador de la Unión Demócrata Independiente (UDI) por la Circunscripción X, VII Región del Maule En el año 2008 fue elegido  presidente de su partido. Reelecto en 2010, decidió no optar a un tercer periodo y entregó el cargo a Patricio Melero el 30 de marzo de 2012.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+6,Francisco Javier,Chahuán,Chahuán,Francisco Chahuán,1971-05-20,44,||,<NULL>,"En el 2005 fue electo diputado por el Distrito Nº14 correspondiente a las comunas de Viña del Mar y Concón, cargo que comprende el período 2006-2010. Desde el 2006 es Vicepresidente Nacional de Renovación Nacional y desde marzo de 2010 Senador por la Quinta Región Costa.",,False,http://www.chahuan.cl/,@chahuan,https://www.facebook.com/franciscochahuan,,True,<NULL>,<NULL>,<NULL>,<NULL>
+7,Camilo Enrique,Escalona,Medina,Camilo Escalona,2012-06-15,44,||,<NULL>,"Senador por la Región de Los Lagos Sur, fue presidente del Partido Socialista desde mayo de 2006 hasta enero del 2010. Desde el 20 marzo de 2012 es presidente del Senado. Su figura generó gran polémica durante la elección presidencial de 2009, en donde se le culpó de ser uno de los responsables de la derrota del candidato concertacionista Eduardo Frei Ruiz-Tagle. Luego de la primera vuelta presidencial de diciembre de 2009 se le pidió la renuncia a la presidencia del Partido Socialista, la cual declinó. Finalmente dimitió  el 23 de enero de 2010.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+8,Alberto Miguel,Espina,Otero,Alberto Espina,1956-11-04,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+9,Eduardo Alfredo Juan Bernardo,Frei,Ruiz-Tagle,Eduardo Frei Ruiz-Tagle,1942-06-24,44,||,<NULL>,"Ingeniero civil y político miembro de la Democracia Cristiana. Senador en tres periodos, entre 1990 y 2014. Presidente del Senado entre el 11 de marzo de 2006 al 11 de marzo de 2008. Presidente de la República entre el 11 de marzo de 1994 al 11 de marzo de 2000.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+10,José Gilberto ,García,Ruminot,José García Ruminot,1955-05-22,44,||,<NULL>,"Senador de Renovación Nacional (RN) por la 15ª Circunscripción Sur, Región de La Araucanía, desde 2002 a la fecha por dos periodos consecutivos.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+11,Alejandro ,García Huidobro,Sanfuentes,Alejandro García Hudiobro,1952-04-19,44,||,<NULL>,"El 2 de agosto de 2011 juró como senador por la 9ª Circunscripción, Sexta Región del Libertador Bernardo O´Higgins, en reemplazo del senador de la UDI Andrés Chadwick, quien asumió como ministro Secretario General de Gobierno.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+12,Guido ,Girardi,Lavín,Guido Girardi,1961-01-21,44,||,<NULL>,"Senador 2006-2014  por la circunscripción electoral Nº 7, correspondiente a Santiago Poniente. De postura progresista, ha apoyado medidas populares: propuso en 2007 establecer la figura del delito ambiental y criticó a las administradoras de fondos de pensiones. Pero también ha estado involucrado en hechos controversiales, como el de las estampillas para su material electoral y la rendición con facturas falsas a través de la empresa “fantasma” Publicam.
+",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+13,José Antonio,Gómez,Urrutia,José Antonio Gómez,1953-12-18,44,||,<NULL>,Ex ministro de Justicia de los gobiernos de Eduardo Frei y Ricardo Lagos. Actual senador por la Región de Antofagasta.,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+14,Antonio Carlos,Horvath,Kiss,Antonio Horvath,1950-01-03,44,||,<NULL>,"Senador por la circunscripción XVIII, Región Aysén del General Carlos Ibáñez del Campo.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+15,Carlos Ignacio,Kuschel,Silva,Carlos Kuschel,1953-03-16,44,||,<NULL>,"Senador de Renovación Nacional por la 17ª Circunscripción, Región de Los Lagos, desde 2006 a la fecha. Diputado por el Distrito Nº 57, Región de Los Lagos, entre 1990 y 2006 por cuatro periodos consecutivos. Alcalde de la Municipalidad de Puerto Montt en 1989. 
+",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+16,Ricardo ,Lagos,Weber,Ricardo Lagos Weber,1962-02-21,44,||,<NULL>,"Senador del Partido Por la Democracia. por la 6ª Circunscripción Costa, Región de Valparaíso, desde 2010. Hijo de Carmen Weber y Ricardo Lagos, quien fue Presidente de Chile entre 2000 y 2006. Fue Ministro Secretario General de Gobierno durante el mandato de la presidenta Michelle Bachelet, en cuyo comando trabajó durante las elecciones, en el marco internacional. Trabajó también, de forma directa, en la Reunión Anual de la APEC celebrada en Chile el año 2004, además de ser uno de los gestores de los tratados de libre comercio que firmó Chile con Estados Unidos y la Unión Europea. ",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+17,Hernán ,Larraín,Fernandez,Hernán Larraín,1947-09-21,44,||,<NULL>,"Abogado y político del partido Unión Demócrata Independiente, el que presidió entre 2006 y 2008. Senador por la 11ª Circunscripción Sur, Región del Maule, desde 1994 a la fecha por tres periodos consecutivos. Presidió el Senado entre marzo de 2004 y marzo de 2005. Es esposo de la ex ministra de Vivienda y Urbanismo (2010-2011) del Gobierno del presidente Sebastián Piñera. ",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+18,Carlos ,Larrain,Peña,Carlos Larraín,1942-11-18,44,||,<NULL>,"Presidente del partido Renovación Nacional. En marzo de 2011 juró como senador por la X Región de Los Lagos, Circunscripción 16 (periodo 2010-2014), correspondiente a las comunas de Valdivia, Mariquina, Lanco, Corral, Máfil, Los Lagos, Paillaco, Panguipulli, Futrono, La Unión, Río Bueno y Lago Ranco. De esta forma, reemplazó a Andrés Allamand, quien en enero de 2011 se integró al gabinete del presidente Sebastián Piñera como ministro de Defensa. Fue concejal por la comuna de Las Condes, Región Metropolitana, entre 1996 y 2011. Esposo de María Victoria Hurtado Vicuña, multimillonaria cuyo patrimonio personal asciende  a US$ 250 millones aproximadamente.",,False,,,,,False,<NULL>,<NULL>,2012-08-03 12:41:59,12
+19,Juan Pablo,Letelier,Morel,Juan Pablo Letelier,1961-01-07,44,||,<NULL>,"Senador del Partido Socialista por la 9ª Circunscripción, Región de O`Higgins, desde 2006 a la fecha. Diputado por el Distrito Nº 33, Región de O`Higgins, por cuatro periodo consecutivos, entre 1990 y 2006. Es hijo del ex canciller y ex embajador chileno en Washington DC, Orlando Letelier del Solar, quien fue asesinado por agentes de la Dirección de Inteligencia Nacional (DINA), el 21 de septiembre de 1976 en Washington DC, Estados Unidos.
+",,False,,,,,True,<NULL>,<NULL>,2012-08-06 16:03:54,12
+20,Pedro Héctor,Muñoz,Aburto,Pedro Muñoz,1944-07-01,44,||,<NULL>,"Senador del Partido Socialista por la 19ª Circunscripción, Región de Magallanes, desde 2006 a la fecha. Diputado por el Distrito Nº 60, Región de Magallanes, por tres periodos consecutivos entre 1994 y 2006.",,False,,,,,True,<NULL>,<NULL>,2012-08-06 16:46:15,12
+21,Alejandro ,Navarro,Brain,Alejandro Navarro,1958-11-20,44,||,<NULL>,"Vicepresidente del Senado desde marzo de 2012 a la fecha. Senador por la 12ª Circunscripción Norte Región del Biobío, para el periodo 2006-2014. Diputado por el Distrito Nº 45, Región del Biobío, durante tres periodos consecutivos entre 1994 y 2006. Profesor de filosofía, académico, fundador y presidente del Movimiento Amplio Social (MAS).",,False,,,,,True,<NULL>,<NULL>,2012-08-06 17:53:10,12
+22,Jovino ,Novoa,Vásquez,Jovino Novoa,1945-03-31,44,||,<NULL>,"Senador reelecto desde 1997 y fundador del partido Unión Demócrata Independiente, el cual ha presidido en dos periodos. En marzo de 2009 fue elegido presidente del Senado.
+",,False,,,,,True,<NULL>,<NULL>,2012-08-08 12:42:06,12
+23,Jaime ,Orpis,Bouchon,Jaime Orpis,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+24,Lily ,Pérez,San Martín,Lily Pérez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+25,Víctor ,Pérez,Varela,Víctor Pérez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+26,Jorge ,Pizarro,Soto,Jorge Pizarro,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+27,Baldo Petar,Prokurica,Prokurica,Baldo Prokurica,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+28,Jaime ,Quintana,Leal,Jaime Orpis,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+29,Ximena Cecilia,Rincón,González,Ximena Rincón,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+30,Fulvio Fabrizio,Rossi,Ciocca,Fulvio Rossi,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+31,Sergio Mariano,Ruiz-Esquide,Jara,Mariano Ruiz-Esquide,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+32,Hosaín ,Sabag,Castillo,Hosaín Sabag,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+33,Eugenio ,Tuma,Zedán,Eugenio Tuma,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+34,Gonzalo Cristian,Uriarte,Herrera,Gonzalo Uriarte,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+35,Ena Anglein,Von Baer,Jahn,Ena Von Baer,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+36,Ignacio ,Walker,Prieto,Ignacio Walker,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+37,Patricio ,Walker,Prieto,Patricio Walker,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+38,José Andrés,Zaldívar,Larraín,Andrés Zaldívar,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+43,Salvador Guillermo,Allende,Gossens,Salvador Allende,1908-06-26,44,||,<NULL>,"Presidente de Chile entre el 4 de noviembre de 1970 y el 11 de septiembre de 1973. El gobierno de Allende, apoyado por la Unidad Popular, destacó tanto por el intento de establecer un camino no revolucionario hacia un Estado socialista usando medios legales –la vía chilena al socialismo–, como por proyectos como la nacionalización del cobre, en medio de la polarización política internacional de la Guerra Fría y de una grave crisis económica y financiera interna.  Su gobierno terminó luego de un golpe de Estado el 11 de septiembre de 1973, en el que participaron las tres ramas de las Fuerzas Armadas y el cuerpo de Carabineros, tres años antes del fin su mandato constitucional; ese mismo día, luego que el Palacio de La Moneda fuese atacado por aviones y tanques, se suicidó. Tras el fin de su gobierno sobrevino una dictadura militar encabezada por el general Augusto Pinochet, que duraría 17 años.",,True,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+44,Hortensia Mercedes,Bussi,Soto,Hortensia Bussi,1914-07-22,44,||,<NULL>,"Conocida como ""Tencha"", fue la esposa del presidente chileno Salvador Allende Gossens, y en esa condición acompañó a éste durante su mandato en la Presidencia de la República de Chile.
+",,True,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+45,Gonzalo,Meza,Allende,Gonzalo Meza Allende,<NULL>,44,||,<NULL>,Hijo de la senadora socialista Isabel Allende y nieto mayor  del ex Presidente Salvador Allende. Se suicidó en 2010 a los 45 años  producto de un “largo episodio de depresión”. Fuentes del  Partido Socialista señalaron en un comunicado que en agosto de 2009 Gonzalo Meza había perdido a su esposa Gema Salazar Contreras debido a una leucemia.,,True,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+46,Marcia,Tambutti,Allende,Marcia Tambutti Allende,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+47,<NULL>,<NULL>,<NULL>,Maya Fernández Allende,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+48,Alejandro,Fernández,Allende,Alejandro Fernández Allende,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+49,<NULL>,<NULL>,<NULL>,Andrés Sepúlveda Allende,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+50,<NULL>,<NULL>,<NULL>,Pablo Sepúlveda Allende,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+51,<NULL>,<NULL>,<NULL>,Carmen Paz Sepúlveda Allende,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+52,Isabel,Allende,Llona,Isabel Allende Llona,1942-08-02,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+53,<NULL>,<NULL>,<NULL>,Denise Pascal Allende,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+54,<NULL>,<NULL>,<NULL>,Salvador Allende Castro,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+55,<NULL>,<NULL>,<NULL>,Laura Gossens Uribe,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+56,<NULL>,<NULL>,<NULL>,Ernesto Alvear Retamal,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+57,<NULL>,<NULL>,<NULL>,María Teresa Valenzuela Herrera,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+58,<NULL>,<NULL>,<NULL>,Claudia Martínez Alvear,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+59,<NULL>,<NULL>,<NULL>,Carlos Martínez Alvear,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+60,<NULL>,<NULL>,<NULL>,Gutenberg Martínez Alvear,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+61,Carlos Antonio Karim ,Bianchi,Chelech,Antonio Bianchi,1960-11-04,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+62,<NULL>,<NULL>,<NULL>,Fernando Solabarrieta Chelech,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+63,<NULL>,<NULL>,<NULL>,Pablo Cantero Barrios,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+64,<NULL>,<NULL>,<NULL>,Karla Cantero Barrios,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+65,<NULL>,<NULL>,<NULL>,Ignacio Cantero Barrios,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+66,Juan Antonio,Coloma,Álamos,Juan Antonio Coloma Álamos,<NULL>,44,||,<NULL>,"Hijo del senador y ex presidente de la UDI, Juan Antonio Coloma, es el hombre clave tras el despliegue del ministro  de Obras Públicas, Laurence Golborne. Como jefe territorial  es quien planifica cada detalle de sus visitas a regiones.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+67,Fuad,Chahuán,Aguad,Fuad Chahuán,<NULL>,44,||,<NULL>,"Químico farmacéutico y dueño de las farmacias Esmeralda, en Valparaíso.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+68,<NULL>,<NULL>,<NULL>,Lidia Chahuán,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+69,<NULL>,<NULL>,<NULL>,Francisco Chahuán Ibáñez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+70,<NULL>,<NULL>,<NULL>,Felipe Chahuán Ibáñez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+71,<NULL>,<NULL>,<NULL>,Magdalena Chahuán Ibáñez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+72,<NULL>,<NULL>,<NULL>,Fernando Chahuán Ibáñez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+73,Arturo,Chahuán,Issa,Arturo Chahuán Issa,<NULL>,44,||,<NULL>,Empresario y director de la Asociación Nacional de Fútbol Profesional,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+74,<NULL>,<NULL>,<NULL>,Sabas Chahuán,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+75,<NULL>,<NULL>,<NULL>,Elba Issa,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+76,Natalia,Escalona,Palma,Natalia Escalona Palma,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+77,<NULL>,<NULL>,<NULL>,Alberto Espina Barros,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+78,<NULL>,<NULL>,<NULL>,María Eliana Otero Lathrop,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+79,<NULL>,<NULL>,<NULL>,María José Espina Donoso,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+80,<NULL>,<NULL>,<NULL>,Nicolás Espina Donoso,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+81,<NULL>,<NULL>,<NULL>,Francisca Espina Donoso,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+82,Eduardo Nicanor,Frei,Montalva,Eduardo Frei Montalva,1911-01-16,44,||,<NULL>,"Abogado, periodista y político, fundador de los partidos Falange Nacional y Democracia Cristiana. Presidente de la Nación entre el 03 de noviembre de 1964 y el 03 de noviembre de 1970. Senador en cuatro periodos, entre 1949 a 1973. Presidió el Senado entre el 23 de mayo y el 11 de septiembre de 1973. Ministro de Estado en el gobierno de Juan Antonio Ríos. En 1982, Eduardo Frei Montalva falleció tras una cirugía digestiva por una hernia de hiato. Aunque en un inicio oficialmente su muerte se explicó como resultado de un shock séptico tras la operación, derivado de complicaciones en la misma, durante el regreso a la democracia se inició una investigación judicial, tras la cual en diciembre de 2009 se le calificó como homicidio, procesándose a seis personas como presuntos autores y partícipes de dicho delito.",,True,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+83,María,Ruiz-Tagle,Jiménez,María Ruiz-Tagle Jiménez,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+84,<NULL>,<NULL>,<NULL>,Verónica Frei Larraechea,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+85,<NULL>,<NULL>,<NULL>,Cecilia Frei Larraechea,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+86,<NULL>,<NULL>,<NULL>,Magdalena Frei Larraechea,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+87,<NULL>,<NULL>,<NULL>,Catalina Frei Larraechea,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+88,<NULL>,<NULL>,<NULL>,Ondina Ruminot Leiva,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+89,<NULL>,<NULL>,<NULL>,Loreto García Escobar,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+90,<NULL>,<NULL>,<NULL>,Consuelo García Escobar,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+91,<NULL>,<NULL>,<NULL>,Guido Girardi Brière,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+92,<NULL>,<NULL>,<NULL>,Rosa Eugenia Lavín Araya,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+93,<NULL>,<NULL>,<NULL>,Antonia Girardi Echeñique,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+94,<NULL>,<NULL>,<NULL>,Luciano Girardi Echeñique,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+95,<NULL>,<NULL>,<NULL>,Domenico Girardi Echeñique,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+96,<NULL>,<NULL>,<NULL>,Elisa Girardi Echeñique,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+97,José,Gómez,López,José Gómez López,<NULL>,44,||,<NULL>,,,True,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+98,Cecilia,Urrutia,Concha,Cecilia Urrutia Concha,<NULL>,44,||,<NULL>,,,True,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+99,<NULL>,<NULL>,<NULL>,Matías Gómez Passi,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+100,<NULL>,<NULL>,<NULL>,Joaquín Gómez Passi,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+101,<NULL>,<NULL>,<NULL>,Sebastián Gómez Passi,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+102,<NULL>,<NULL>,<NULL>,Francisca Gómez Passi,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+103,<NULL>,<NULL>,<NULL>,Antonio Horvath Goycolea,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+104,Antonio,Horvath,Gutiérrez,Antonio Horvath Gutiérrez,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+105,Valentina,Horvath,Gutiérrez,Valentina Horvath Gutiérrez,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+106,Karina,Horvath,Gutiérrez,Karina Horvath Gutiérrez,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+107,Tomás,Horvath,Gutiérrez,Tomás Horvath Gutiérrez,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+108,Matías,Horvath,Gutiérrez,Matías Horvath Gutiérrez,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+109,<NULL>,<NULL>,<NULL>,Ignacio Kuschel Hitschfeld,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+110,<NULL>,<NULL>,<NULL>,María Rosa Silva Montt,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+111,<NULL>,<NULL>,<NULL>,Constanze Margarita Kuschel Rietzsch,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+112,<NULL>,<NULL>,<NULL>,Katherina Verónica María Kuschel Rietzsch,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+113,<NULL>,<NULL>,<NULL>,Valeska Natalia Delia Kuschel Rietzsch,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+114,<NULL>,<NULL>,<NULL>,Cristina Ignacia Bernardita Kuschel Rietzsch,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+115,Ricardo Froilán,Lagos,Escobar,Ricardo Lagos Escobar,1938-03-02,44,||,<NULL>,"
+Segundo presidente socialista en la historia de Chile, es una de las principales figuras de la política chilena desde la década de los ochenta. Durante su gobierno mantuvo una gestión moderada, según los acuerdos de coalición con la Democracia Cristiana, y preservó el dinamismo económico.  Tuvo que enfrentar las crisis derivadas de la caída y desafuero de Augusto Pinochet, al mismo tiempo que impulsaba la recuperación de la memoria histórica y la reparación de los daños físicos y morales infligidos a las víctimas de la dictadura.  El plan Auge, la firma de importantes tratados de libre comercio con Europa y Estados Unidos y la puesta en marcha de la reforma procesal penal, son algunas de las obras que realizó durante sus seis años de gobierno. 
+Entre los puntos polémicos de su gestión está la respuesta dada por el Estado chileno a las reivindicaciones territoriales y de autodeterminación de los pueblos indígenas mapuches, su actuación en problemas de índole ambiental, y la preparación de ciertas reformas, que se implementaron en el gobierno de Michelle Bachelet como el Transantiago. En 2007, fue designado enviado especial para el cambio climático para las Naciones Unidas, debiendo asesorar al secretario general de este organismo respecto del tema.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+116,Carmen,Weber,Aliaga,Carmen Weber,<NULL>,44,||,<NULL>,,,True,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+117,<NULL>,<NULL>,<NULL>,Ricardo Lagos Peña,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+118,María Eliana,Fernández,Beraud,Eliana Fernández Beraud,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+119,<NULL>,<NULL>,<NULL>,Hernán Larraín Matte,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+120,Pablo,Larraín,Matte,Pablo Larraín Matte,<NULL>,44,||,<NULL>,"Cineasta chileno, hijo del senador de la UDI, Hernán Larraín, y de Magdalena Matte,  ex ministra de Vivienda y Urbanismo en el gobierno de Sebastián Piñera. Su cuarto largometraje es No, una película en la que el mexicano Gael García Bernal interpreta a un publicista que desarrolla una campaña a favor del ""No"" en el plebiscito de 1988, para impedir que Augusto Pinochet siguiera en el poder.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+121,<NULL>,<NULL>,<NULL>,Juan de Dios Larraín Matte,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+122,<NULL>,<NULL>,<NULL>,Magdalena Larraín Matte,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+123,<NULL>,<NULL>,<NULL>,María José Larraín Matte,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+124,<NULL>,<NULL>,<NULL>,Blanca Larraín Matte,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+125,<NULL>,<NULL>,<NULL>,Fernando Larraín Vial,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+126,<NULL>,<NULL>,<NULL>,María Peña,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+127,<NULL>,<NULL>,<NULL>,Marcos Orlando Letelier del Sola,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+128,<NULL>,<NULL>,<NULL>,Isabel Margarita Morel Gumucio,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+129,<NULL>,<NULL>,<NULL>,Fernando Navarro,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+130,<NULL>,<NULL>,<NULL>,Lidia Brain,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+131,<NULL>,<NULL>,<NULL>,Jovino Novoa Rojas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+132,<NULL>,<NULL>,<NULL>,Silvia Vasquez Vargas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+133,<NULL>,<NULL>,<NULL>,Santiago Orpis Jouanne,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+134,<NULL>,<NULL>,<NULL>,Ana Luisa Orpis Jouanne,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+135,<NULL>,<NULL>,<NULL>,Teresita Orpis Jouanne,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+136,<NULL>,<NULL>,<NULL>,María José Orpis Jouanne,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+137,<NULL>,<NULL>,<NULL>,Paola Bauzá Pérez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+138,<NULL>,<NULL>,<NULL>,Rodrigo Bauzá Pérez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+139,<NULL>,<NULL>,<NULL>,Juan Andrés Prokurica de Las Heras,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+140,<NULL>,<NULL>,<NULL>,Francisco Prokurica de Las Heras,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+141,<NULL>,<NULL>,<NULL>,Flavio Rossi Rossi,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+142,<NULL>,<NULL>,<NULL>,Ángela Ciocca Gómez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+143,<NULL>,<NULL>,<NULL>,Franco Paolo Rossi Rodriguez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+144,<NULL>,<NULL>,<NULL>,Mariano Ruiz/Esquide,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+145,<NULL>,<NULL>,<NULL>,Carmen Jara,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+146,<NULL>,<NULL>,<NULL>,Rufo Ruiz-Esquide Espinoza,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+147,<NULL>,<NULL>,<NULL>,Patricio Hosain Sabag,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+148,<NULL>,<NULL>,<NULL>,Gloria Sabag,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+149,<NULL>,<NULL>,<NULL>,Jorge Sabag,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+150,<NULL>,<NULL>,<NULL>,Mario Sabag,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+151,<NULL>,<NULL>,<NULL>,Juan Tuma Masso,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+152,<NULL>,<NULL>,<NULL>,María Zedán Bulos,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+153,<NULL>,<NULL>,<NULL>,Luis Uriarte Larrañaga,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+154,<NULL>,<NULL>,<NULL>,Mónica Herrera Correa,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+155,<NULL>,<NULL>,<NULL>,Erick Von Baer,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+156,<NULL>,<NULL>,<NULL>,Helga Jahn,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+157,<NULL>,<NULL>,<NULL>,Clara Frohlich Von Baer,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+158,<NULL>,<NULL>,<NULL>,Ian Frohlich Von Baer,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+159,<NULL>,<NULL>,<NULL>,Heinrich von Baer,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+160,<NULL>,<NULL>,<NULL>,Agnes von Lochow,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+161,<NULL>,<NULL>,<NULL>,Erik von Baer,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+162,<NULL>,<NULL>,<NULL>,Ignacio Walker Concha,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+163,<NULL>,<NULL>,<NULL>,Isabel Margarita Prieto,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+164,<NULL>,<NULL>,<NULL>,Horacio Walker Larraín,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+165,<NULL>,<NULL>,<NULL>,Alberto Zaldívar Errázuriz,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+166,<NULL>,<NULL>,<NULL>,Josefina Larraín Tejeda,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+167,<NULL>,<NULL>,<NULL>,Paula Zaldivar Hurtado,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+168,<NULL>,<NULL>,<NULL>,Patricia Zaldivar Hurtado,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+169,<NULL>,<NULL>,<NULL>,Claudia Zaldivar Hurtado,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+170,<NULL>,<NULL>,<NULL>,Francisca Zaldivar Hurtado,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+171,Enrique Luis  ,Accorsi,Opazo,Enrique Accorsi,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+172,Sergio Patricio ,Aguiló,Melo,Sergio Aguiló,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+173,René Osvaldo ,Alinco,Bustos,René Alinco,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+174,<NULL>,<NULL>,<NULL>,Osvaldo René Alinco,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+175,<NULL>,<NULL>,<NULL>,Flor Bustos,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+176,Pedro Pablo ,Alvarez-Salamanca,Ramírez,Pedro Alvarez-Salamanca,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+177,<NULL>,<NULL>,<NULL>,Pedro Pablo Alvarez-Salamanca Büchi,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+178,<NULL>,<NULL>,<NULL>,Luz María Ramírez Sepúlveda,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+179,Osvaldo Raúl ,Andrade,Lara,Osvaldo Andrade,1953-06-02,44,||,<NULL>,"Abogado y político, miembro del Partido Socialista desde 1968 y ex ministro del Trabajo y Previsión Social (2006-2008) de la presidenta Michelle Bachelet. Actualmente es diputado por el Distrito 29 y presidente de su colectividad.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+180,<NULL>,<NULL>,<NULL>,Carmen Lara,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+181,<NULL>,<NULL>,<NULL>,Patricio Andrade Olate,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+182,<NULL>,<NULL>,<NULL>,Carlos Andrade Olate,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+183,<NULL>,<NULL>,<NULL>,Andrés Andrade Olate,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+184,<NULL>,<NULL>,<NULL>,Jearim Yael Andrade Olate,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+185,<NULL>,<NULL>,<NULL>,Rigoberto Araya Ochoa,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+186,<NULL>,<NULL>,<NULL>,Sara Ortiz Rojas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+187,Carmen Ximena,Andrade,Lara,Carmen Andrade Lara,<NULL>,44,||,<NULL>,"Socióloga, hermana de Osvaldo Andrade. Directora  del Servicio Nacional de la Mujer (Sernam) entre los años 2009- 2010. Andrade estuvo relacionada con la Vicaría de la Solidaridad. En el gobierno de Ricardo Lagos fue jefa del Departamento de Derechos y Responsabilidad Juvenil del Servicio Nacional de Menores (Sename).",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+188,Pedro  ,Araya,Guerrero,Pedro Araya,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+189,<NULL>,<NULL>,<NULL>,Pedro Araya Ortiz,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+190,<NULL>,<NULL>,<NULL>,Juana Guerrero Yáñez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+191,<NULL>,<NULL>,<NULL>,Jaime Araya Guerrero,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+192,<NULL>,<NULL>,<NULL>,Carlos Araya Guerrero,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+193,Gonzalo Enrique ,Arenas,Hödar,Gonzalo Arenas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+194,<NULL>,<NULL>,<NULL>,Juan Arenas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+195,<NULL>,<NULL>,<NULL>,Pamela Hödar,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+196,Gabriel Héctor ,Ascencio,Mansilla,Gabriel Ascencio,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+197,<NULL>,<NULL>,<NULL>,Georgina Mansilla,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+198,<NULL>,<NULL>,<NULL>,Antonia Ascencio Yurac,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+199,Pepe  ,Auth,Stewart,Pepe Auth,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+200,<NULL>,<NULL>,<NULL>,Raúl Auth Caviedes,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+201,<NULL>,<NULL>,<NULL>,Joan Stewart Visintainer,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+202,Nino  ,Baltolu,Rasera,Nino Baltolu,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+203,<NULL>,<NULL>,<NULL>,Ángel Baltolu Brandano,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+204,<NULL>,<NULL>,<NULL>,Flora Rasera Collet,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+205,<NULL>,<NULL>,<NULL>,Nino Francesco Baltolu Zenteno,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+206,<NULL>,<NULL>,<NULL>,Carla Valeria Baltolu Zenteno,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+207,<NULL>,<NULL>,<NULL>,Renata Fabiola Baltolu Zenteno,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+208,José Ramón ,Barros,Montero,Ramón Barros,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+209,<NULL>,<NULL>,<NULL>,José Ramón Barros Arteaga,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+210,<NULL>,<NULL>,<NULL>,Santiago Barros Arteaga,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+211,<NULL>,<NULL>,<NULL>,María Ignacia Barros Arteaga,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+212,<NULL>,<NULL>,<NULL>,María Isidora Barros Arteaga,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+213,<NULL>,<NULL>,<NULL>,Carmen Barros Arteaga,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+214,<NULL>,<NULL>,<NULL>,Francisca Barros Arteaga,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+215,Eugenio Francisco ,Bauer,Jouanne,Eugenio Bauer,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+216,<NULL>,<NULL>,<NULL>,Josefina Bauer Labra,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+217,<NULL>,<NULL>,<NULL>,Francisca Bauer Labra,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+218,<NULL>,<NULL>,<NULL>,Tomás Bauer Labray,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+219,<NULL>,<NULL>,<NULL>,José Eugenio Bauer Labra,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+220,Germán Antonio ,Becker,Alvear,Germán Becker,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+221,<NULL>,<NULL>,<NULL>,Germán Becker Bäechler,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+222,<NULL>,<NULL>,<NULL>,María Antonieta Alvear Campos,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+223,<NULL>,<NULL>,<NULL>,Miguel Becker Alvear,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+224,Mario Vittorio Luca,Bertolino,Rendic,Mario Bertolino,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+225,<NULL>,<NULL>,<NULL>,Mario Bertolino Cooper,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+226,<NULL>,<NULL>,<NULL>,Felipe Bertolino Cooper,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+227,<NULL>,<NULL>,<NULL>,Florencia Bertolino Cooper,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+228,Sergio  ,Bobadilla,Muñoz,Sergio Babadilla,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+229,<NULL>,<NULL>,<NULL>,"""Lucía Pilar Bobadilla Crovetto",<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+230,<NULL>,<NULL>,<NULL>,María Francisca Bobadilla Crovetto,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+231,<NULL>,<NULL>,<NULL>,"Sofía Bobadilla Crovetto y Sergio Bobadilla Crovetto. """,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+232,Pedro Pablo ,Browne,Urrejola,Pedro Browne,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+233,<NULL>,<NULL>,<NULL>,Pedro Browne Covarrubias,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+234,<NULL>,<NULL>,<NULL>,Teresa Urrejola Monckeberg,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+235,<NULL>,<NULL>,<NULL>,Pedro Browne Bezanilla,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+236,<NULL>,<NULL>,<NULL>,José Browne Bezanilla,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+237,<NULL>,<NULL>,<NULL>,Ema Browne Bezanilla,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+238,<NULL>,<NULL>,<NULL>,Samuel Browne Bezanilla,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+239,Jorge Alfonso ,Burgos,Varela,Jorge Burgos,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+240,<NULL>,<NULL>,<NULL>,Vicente Burgos Salas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+241,<NULL>,<NULL>,<NULL>,Domingo Burgos Salas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+242,<NULL>,<NULL>,<NULL>,Raimundo Burgos Salas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+243,Giovanni Oscar  ,Calderón,Bassi,Giovanni Calderón,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+244,<NULL>,<NULL>,<NULL>,Juan Francisco Calderón Quezada,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+245,Carlos  Cristian ,Campos,Jara,Carlos Campos,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+246,<NULL>,<NULL>,<NULL>,Nancy Jara,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+247,<NULL>,<NULL>,<NULL>,Francisca,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+248,<NULL>,<NULL>,<NULL>,Carlos Cristian.,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+249,Alberto  ,Cardemil,Herrera,Alberto Cardemil,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+250,<NULL>,<NULL>,<NULL>,Ramón Cardemil,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+251,<NULL>,<NULL>,<NULL>,Elba Herrera Muñoz,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+252,<NULL>,<NULL>,<NULL>,Alberto Cardemil Palacios,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+253,<NULL>,<NULL>,<NULL>,Juan Cristóbal Cardemil Palacios,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+254,<NULL>,<NULL>,<NULL>,María Javiera Cardemil Palacios,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+255,<NULL>,<NULL>,<NULL>,Juan de Dios Cardemil Palacios,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+256,Lautaro César  ,Carmona,Soto,Lautaro Carmona,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+257,<NULL>,<NULL>,<NULL>,Ramón Carmona,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+258,<NULL>,<NULL>,<NULL>,Yolanda Soto,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+259,<NULL>,<NULL>,<NULL>,Andrés Carmona Alert,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+260,<NULL>,<NULL>,<NULL>,Fernando Carmona Alert,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+261,<NULL>,<NULL>,<NULL>,Paz Carmona Alert,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+262,Juan Luis ,Castro,González,Juan Luis Castro,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+263,<NULL>,<NULL>,<NULL>,Juan Pablo Castro,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+264,<NULL>,<NULL>,<NULL>,Felipe Castro,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+265,<NULL>,<NULL>,<NULL>,Gonzalo Castro,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+266,Eduardo Antonio ,Cerda,García,Eduardo Cerda,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+267,<NULL>,<NULL>,<NULL>,Alfredo Cerda Jaraquemada,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+268,<NULL>,<NULL>,<NULL>,Anita García Velasco,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+269,<NULL>,<NULL>,<NULL>,Eduardo Cerda Lecaros,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+270,Guillermo Arturo ,Ceroni,Fuentes,Guillermo Ceroni,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+271,Aldo Vicente ,Cornejo,González,Aldo Cornejo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+272,María Angélica ,Cristi,Marfil,María Angélica Cristi,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+273,<NULL>,<NULL>,<NULL>,Alan Morrison Cristi,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+274,<NULL>,<NULL>,<NULL>,Paul Morrison Cristi,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+275,<NULL>,<NULL>,<NULL>,Robert Morrison Cristi,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+276,Fuad Eduardo ,Chahín,Valenzuela,Fuad Chahín,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+277,<NULL>,<NULL>,<NULL>,Fuad Armando Chahin Said,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+278,<NULL>,<NULL>,<NULL>,Gladis Valenzuela Lonconao,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+279,Alfonso Arturo ,De Urresti,Longton,Alfonso De Urresti,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+280,Roberto  ,Delmastro,Naso,Roberto Delmastro,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+281,<NULL>,<NULL>,<NULL>,Paola Delmastro Anwandter,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+282,<NULL>,<NULL>,<NULL>,Rodrigo Delmastro Anwandter,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+283,<NULL>,<NULL>,<NULL>,Pía Delmastro Anwandter,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+284,Marcelo Eduardo ,Díaz,Díaz,Marcelo Díaz,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+285,José Manuel Ismael,Edwards,Silva,José Manuel Edwards,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+286,<NULL>,<NULL>,<NULL>,Virginia Silva,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+287,Edmundo  ,Eluchans,Urenda,Edmundo Eluchans,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+288,<NULL>,<NULL>,<NULL>,Edmundo Eluchans Malherbe,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+289,<NULL>,<NULL>,<NULL>,Florencia Urenda Zegers,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+290,<NULL>,<NULL>,<NULL>,Beltrán Urenda Zegers,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+291,Marcos Andrés ,Espinosa,Monardes,Marcos Espinosa,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+292,Fidel Edgardo ,Espinoza,Sandoval,Fidel Espinoza,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+293,Abraham  Enrique ,Estay,Peñaloza,Abraham Estay,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+294,<NULL>,<NULL>,<NULL>,María Fernanda Estay Cuevas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+295,<NULL>,<NULL>,<NULL>,María Alejandra Estay Cuevas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+296,<NULL>,<NULL>,<NULL>,José Enrique Estay Cuevas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+297,<NULL>,<NULL>,<NULL>,Bárbara Isabel Estay Cuevas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+298,<NULL>,<NULL>,<NULL>,Antonia Catalina Estay Cuevas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+299,Ramón Alberto ,Farías,Ponce,Ramón Farías,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+300,<NULL>,<NULL>,<NULL>,Rosario Farías Vidal,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+301,<NULL>,<NULL>,<NULL>,Diego Farías Vidal,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+302,René Manuel ,García,García,René García,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+303,Issa Farid ,Kort,Garriga,Issa Kort,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+304,Cristina  ,Girardi,Lavín,Cristina Girardi,1962-01-09,44,||,<NULL>,"Antropóloga y política chilena del Partido Por la Democracia. Es diputada por el Distrito Nº 18, Región Metropolitana, desde 2010. Fue alcaldesa de la Municipalidad de Cerro Navia por tres periodos, entre 1996 y 2008. Hermana del senador Guido Girardi.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+305,<NULL>,<NULL>,<NULL>,Benjamín,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+306,<NULL>,<NULL>,<NULL>,Crescente,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+307,<NULL>,<NULL>,<NULL>,Emiliano,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+308,<NULL>,<NULL>,<NULL>,Treviso Girardi,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+310,Dino,Girardi,Lavín,Dino Girardi,<NULL>,44,||,<NULL>,"Concejal por la Municipalidad de Lo Prado, periodo 2008-2012. Hermano del senador Guido Girardi y de la diputada Cristina Girardi.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+311,Joaquín  ,Godoy,Ibáñez,Joaquín Godoy,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+312,<NULL>,<NULL>,<NULL>,Domingo Godoy Matte; Iván Moreira,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+313,<NULL>,<NULL>,<NULL>,Carmen Ibañez Soto,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+314,<NULL>,<NULL>,<NULL>,Arturo Ibáñez Ceza,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+315,<NULL>,<NULL>,<NULL>,Eliana del Carmen Soto Klauss,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+316,<NULL>,<NULL>,<NULL>,María Luisa Godoy Ibáñez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+317,Carolina  ,Goic,Boroevic,Carolina Goic,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+318,<NULL>,<NULL>,<NULL>,Pedro Goic Karmelic,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+319,<NULL>,<NULL>,<NULL>,Mary Boroevic Yutronic.,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+320,<NULL>,<NULL>,<NULL>,Catalina Miranda Goic,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+321,<NULL>,<NULL>,<NULL>,Alejandra Miranda Goic,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+322,<NULL>,<NULL>,<NULL>,Alejandro Goic,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+323,René Rodrigo ,González,Torres,René González,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+324,Hugo Humberto ,Gutiérrez,Gálvez,Hugo Gutiérrez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+325,<NULL>,<NULL>,<NULL>,Paloma Gutierrez Barrera,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+326,<NULL>,<NULL>,<NULL>,Ramiro Gutierrez Barrera,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+327,<NULL>,<NULL>,<NULL>,Alondra Gutierrez Barrera,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+328,<NULL>,<NULL>,<NULL>,Manuela Gutierrez Barrera,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+329,<NULL>,<NULL>,<NULL>,Pedro Gutierrez Barrera,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+330,Romilio  ,Gutiérrez,Pino,Romilio Gutiérrez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+331,Patricio Alejandro ,Hales,Dib,Patricio Hales,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+332,<NULL>,<NULL>,<NULL>,Alejandro Hales Jamarne,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+333,<NULL>,<NULL>,<NULL>,Adela Dib,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+334,<NULL>,<NULL>,<NULL>,Teresa Hales,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+335,<NULL>,<NULL>,<NULL>,Antonio Hales,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+336,Felipe  ,Harboe,Bascuñán,Felipe Harboe Bascuñán,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+337,Gustavo Adolfo ,Hasbún,Selume,Gustavo Hasbún,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+338,<NULL>,<NULL>,<NULL>,Enrique Hasbún,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+339,<NULL>,<NULL>,<NULL>,Carmen Selume.,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+340,<NULL>,<NULL>,<NULL>,Diego Hasbún,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+341,<NULL>,<NULL>,<NULL>,Benjamin Habún,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+342,Javier Ricardo ,Hernández,Hernández,Javier Hernández,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+343,<NULL>,<NULL>,<NULL>,Roberto Javier Hernández,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+344,<NULL>,<NULL>,<NULL>,María Fernanda Hernández,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+345,<NULL>,<NULL>,<NULL>,María Javiera Hernández,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+346,<NULL>,<NULL>,<NULL>,Ignacio José Hernández,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+347,<NULL>,<NULL>,<NULL>,Matías Humberto Hernández,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+348,<NULL>,<NULL>,<NULL>,Benjamín Alberto Hernández,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+349,María José ,Hoffmann,Opazo,María José Hoffmann,<NULL>,44,||,<NULL>,Diputada UDI,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+350,<NULL>,<NULL>,<NULL>,Matías Müller Hoffmann,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+351,<NULL>,<NULL>,<NULL>,Clarita Müller Hoffmann,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+352,<NULL>,<NULL>,<NULL>,Diego Müller Hoffmann,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+353,Marta Eliana ,Isasi,Barbieri,Marta Isasi,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+354,<NULL>,<NULL>,<NULL>,Divna Snezana Gospodja,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+355,<NULL>,<NULL>,<NULL>,Ljubinka y Diannella,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+356,Enrique  ,Jaramillo,Becker,Enrique Jaramillo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+357,<NULL>,<NULL>,<NULL>,Enrique Jaramillo Astudillo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+358,<NULL>,<NULL>,<NULL>,Jaime Jaramillo Astudillo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+359,<NULL>,<NULL>,<NULL>,Jorge Jaramillo Astudillo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+360,Carlos Abel ,Jarpa,Wevar,Carlos Jarpa,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+361,<NULL>,<NULL>,<NULL>,Abel Jarpa Vallejos,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+362,<NULL>,<NULL>,<NULL>,Matilde Wevar,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+363,<NULL>,<NULL>,<NULL>,Matías Jarpa Concha,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+364,<NULL>,<NULL>,<NULL>,Julieta Jarpa Concha,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+365,<NULL>,<NULL>,<NULL>,Tomás Jarpa Concha,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+366,Tucapel  ,Jiménez,Fuentes,Tucapel Jiménez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+367,<NULL>,<NULL>,<NULL>,Tucapel Jiménez Alfaro,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+368,<NULL>,<NULL>,<NULL>,Haydee Fuentes Salinas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+369,<NULL>,<NULL>,<NULL>,Tucapel Jiménez Lagos,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+370,<NULL>,<NULL>,<NULL>,Sebastián Jiménez Lagos,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+371,<NULL>,<NULL>,<NULL>,Susan Jiménez Lagos,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+372,José Antonio ,Kast,Rist,José Antonio Kast,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+373,<NULL>,<NULL>,<NULL>,Miguel Kast Schindler,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+374,<NULL>,<NULL>,<NULL>,Olga Rist,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+375,<NULL>,<NULL>,<NULL>,Josefina Kast Adriasola,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+376,<NULL>,<NULL>,<NULL>,José Antonio Kast Adriasola,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+377,<NULL>,<NULL>,<NULL>,María Pía Kast Adriasola,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+378,<NULL>,<NULL>,<NULL>,Nicolás,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+379,<NULL>,<NULL>,<NULL>,Matías Kast Adriasola,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+380,<NULL>,<NULL>,<NULL>,Trinidad Kast Adriasola,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+381,<NULL>,<NULL>,<NULL>,Agustín Kast Adriasola,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+382,<NULL>,<NULL>,<NULL>,María Isabel Kast Adriasola,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+383,<NULL>,<NULL>,<NULL>,Benjamín Kast Adriasola,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+384,Juan Carlos ,Latorre,Carmona,Juan Carlos Latorre,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+385,<NULL>,<NULL>,<NULL>,Carlos Latorre Offermanns,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+386,<NULL>,<NULL>,<NULL>,Teresa Carmona,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+387,Luis Segundo ,Lemus,Aracena,Luis Lemus,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+388,<NULL>,<NULL>,<NULL>,Luis Antonio Lemus Robles,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+389,<NULL>,<NULL>,<NULL>,Rosa Ermelina Aracena Aracena,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+390,<NULL>,<NULL>,<NULL>,Luis Felipe Lemus Cortés,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+391,<NULL>,<NULL>,<NULL>,Fernando Lemus Cortés,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+392,<NULL>,<NULL>,<NULL>,Fernanda Lemus Rivadeneira,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+393,<NULL>,<NULL>,<NULL>,Rocio Lemus Nilo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+394,Roberto Eduardo ,León,Ramírez,Roberto León,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+395,Flaminio  Joel  ,Rosales,Guzmán,Flaminio Rosales,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+396,Pablo  ,Lorenzini,Basso,Pablo Lorenzini,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+397,<NULL>,<NULL>,<NULL>,Emilio Lorenzini Gratwohl,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+398,<NULL>,<NULL>,<NULL>,Leticia Basso Basso,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+399,Javier Ignacio ,Macaya,Danús,Javier Macaya,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+400,<NULL>,<NULL>,<NULL>,León Macaya Farías,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+401,<NULL>,<NULL>,<NULL>,Raimundo Macaya Farías,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+402,Miodrag Arturo ,Marinovic,Solo de Zaldívar,Miodrag Marinovic,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+403,<NULL>,<NULL>,<NULL>,Victoria Solo de Zaldívar,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+404,<NULL>,<NULL>,<NULL>,Constanza Marinovic,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+405,<NULL>,<NULL>,<NULL>,Miodrag Marinovic,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+406,Rosauro  ,Martínez,Labbé,Rosauro Martínez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+407,<NULL>,<NULL>,<NULL>,Bárbara Martínez Ramírez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+408,<NULL>,<NULL>,<NULL>,Nicolás Martínez Ramírez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+409,<NULL>,<NULL>,<NULL>,Cristóbal Martínez Ramírez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+410,<NULL>,<NULL>,<NULL>,Rosauro Martínez Ramírez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+411,Patricio  ,Melero,Abaroa,Patricio Melero,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+412,<NULL>,<NULL>,<NULL>,Manuel Melero Rodríguez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+413,<NULL>,<NULL>,<NULL>,Beatriz Abaroa Layda,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+414,<NULL>,<NULL>,<NULL>,Sebastián Melero Donoso,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+415,<NULL>,<NULL>,<NULL>,Patricio Melero Donoso,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+416,Fernando  ,Meza,Moncada,Fernando Meza,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+417,<NULL>,<NULL>,<NULL>,Esteban Meza,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+418,<NULL>,<NULL>,<NULL>,Margarita Moncada,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+419,<NULL>,<NULL>,<NULL>,María Antonieta Meza Marqués,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+420,<NULL>,<NULL>,<NULL>,Fernando Esteban Meza Marqués,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+421,Andrea  ,Molina,Oliva,Andrea Molina,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+422,<NULL>,<NULL>,<NULL>,Noelia Kleinfercher Molina,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+423,<NULL>,<NULL>,<NULL>,Laura Rojas Molina,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+424,Cristián  ,Monckeberg,Bruner,Cristián Monckeberg Bruner,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+425,<NULL>,<NULL>,<NULL>,Jorge Monckeberg Barros,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+426,<NULL>,<NULL>,<NULL>,Paulina Bruner Varas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+427,<NULL>,<NULL>,<NULL>,Camila Monckeberg Guzmán,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+428,<NULL>,<NULL>,<NULL>,Jorge Monckeberg Guzmán,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+429,<NULL>,<NULL>,<NULL>,Esteban Monckeberg Guzmán,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+430,<NULL>,<NULL>,<NULL>,Gustavo Monckeberg Barros,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+431,<NULL>,<NULL>,<NULL>,Nicolás Monckeberg Díaz,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+432,<NULL>,<NULL>,<NULL>,Manuel José Mönckeberg Balmaceda,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+433,<NULL>,<NULL>,<NULL>,Margarita Díaz Herrera,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+434,<NULL>,<NULL>,<NULL>,Gerardo Monckeberg Balmaceda,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+435,<NULL>,<NULL>,<NULL>,Fernando Monckeberg Barros,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+436,<NULL>,<NULL>,<NULL>,Jorge Monckeberg Barros,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+437,<NULL>,<NULL>,<NULL>,Alicia Monckeberg Barros,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+438,<NULL>,<NULL>,<NULL>,Cristian Monckeberg Bruner.,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+439,Manuel  ,Monsalve,Benavides,Manuel Monsalve,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+440,<NULL>,<NULL>,<NULL>,Amanda Sofía Monsalve Garrido,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+441,<NULL>,<NULL>,<NULL>,Carmen Gabriela Monsalve Garrido,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+442,Carlos  ,Montes,Cisternas,Carlos Montes,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+443,Celso René ,Morales,Muñoz,Celso Morales,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+444,<NULL>,<NULL>,<NULL>,Jorge Morales,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+445,<NULL>,<NULL>,<NULL>,Blanca Muñoz,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+446,<NULL>,<NULL>,<NULL>,Camila Morales Sazo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+447,Iván Alejandro ,Moreira,Barros,Iván Moreira,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+448,Adriana  ,Muñoz,D'Albora,Adriana Muñoz,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+449,<NULL>,<NULL>,<NULL>,Roberto Muñoz,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+450,<NULL>,<NULL>,<NULL>,Amilcar Veneciano Muñoz,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+451,Claudia  ,Nogueira,Fernández,Claudia Nogueira,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+452,<NULL>,<NULL>,<NULL>,Gonzalo Alberto Andrés Cornejo Nogueira,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+453,<NULL>,<NULL>,<NULL>,Elisa María Candelaria Cornejo Nogueira,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+454,Iván  ,Norambuena,Farías,Iván Norambuena,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+455,<NULL>,<NULL>,<NULL>,Andrés Felipe Norambuena Yung,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+456,<NULL>,<NULL>,<NULL>,Sebastián Norambuena Yung,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+457,<NULL>,<NULL>,<NULL>,Benjamín Norambuena Yung,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+458,<NULL>,<NULL>,<NULL>,Juan Pablo Norambuena Yung,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+459,<NULL>,<NULL>,<NULL>,José Tomás Norambuena Yung,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+460,Marcos Antonio ,Núñez,Lozano,Marcos Núñez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+461,<NULL>,<NULL>,<NULL>,Isidora Núñez Figueroa,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+462,<NULL>,<NULL>,<NULL>,Francisco Núñez Figueroa,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+463,Sergio  ,Ojeda,Uribe,Sergio Ojeda,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+464,José Miguel ,Ortiz,Novoa,José Ortiz,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+465,Clemira Hugolina ,Pacheco,Rivas,Clemira Pacheco,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+466,Denise  ,Pascal,Allende,Denise Pascal,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+467,<NULL>,<NULL>,<NULL>,Gastón Pascal Lyon,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+468,<NULL>,<NULL>,<NULL>,Laura Allende Gossens,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+469,<NULL>,<NULL>,<NULL>,Alejandra Chadwick Pascal,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+470,<NULL>,<NULL>,<NULL>,Jorge Chadwick Pascal,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+471,<NULL>,<NULL>,<NULL>,Andrés Pascal Allende,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+472,José  ,Pérez,Arriagada,José Pérez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+473,<NULL>,<NULL>,<NULL>,Fernando Pérez Álvarez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+474,<NULL>,<NULL>,<NULL>,Laura Arriagada Novoa,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+475,<NULL>,<NULL>,<NULL>,Lorena Pérez Larenas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+476,<NULL>,<NULL>,<NULL>,José Luis Pérez Larenas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+477,Leopoldo Alfredo ,Pérez,Lahsen,Leopoldo Pérez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+478,<NULL>,<NULL>,<NULL>,Leopoldo Pérez Bobadilla,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+479,<NULL>,<NULL>,<NULL>,Elena Lahsen Azar,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+480,<NULL>,<NULL>,<NULL>,Daniela Paz Pérez Le Roy,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+481,<NULL>,<NULL>,<NULL>,Leopoldo Ignacio Pérez Le Roy,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+482,Carlos Eduardo ,Recondo,Lavanderos,Carlos Recondo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+483,<NULL>,<NULL>,<NULL>,Carlos Eduardo Recondo Said,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+484,<NULL>,<NULL>,<NULL>,Rosario Andrea Recondo Said,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+485,<NULL>,<NULL>,<NULL>,Consuelo Loreto Recondo Said,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+486,Ricardo Enrique ,Rincón,González,Ricardo Rincón,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+487,<NULL>,<NULL>,<NULL>,Ricardo Rincón Iglesias,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+488,<NULL>,<NULL>,<NULL>,Luisa González Cofré,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+489,<NULL>,<NULL>,<NULL>,Ximena Rincón González,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+490,<NULL>,<NULL>,<NULL>,Mónica Rincón González,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+491,Gaspar Alberto ,Rivas,Sánchez,Gaspar Rivas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+492,<NULL>,<NULL>,<NULL>,Gaspar Rivas Schulz,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+493,<NULL>,<NULL>,<NULL>,Virginia Sánchez Zañartu,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+494,<NULL>,<NULL>,<NULL>,María Virginia Rivas Sánchez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+495,Alberto Iván Francisco,Robles,Pantoja,Alberto Robles,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+496,<NULL>,<NULL>,<NULL>,Andrés Francisco Robles Rebolledo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+497,<NULL>,<NULL>,<NULL>,Paz Alejandra Robles Rebolledo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+498,<NULL>,<NULL>,<NULL>,Nicolás Alberto Robles Rebolledo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+499,<NULL>,<NULL>,<NULL>,Rodrigo Iván Robles Rebolledo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+500,Manuel Ernesto ,Rojas,Molina,Manuel Rojas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+501,Karla Elizabeth ,Rubilar,Barahona,Karla Rubilar,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+502,<NULL>,<NULL>,<NULL>,Patricio Rubilar,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+503,<NULL>,<NULL>,<NULL>,Vicky Barahona,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+504,<NULL>,<NULL>,<NULL>,Patricio Cadis Rubilar,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+505,<NULL>,<NULL>,<NULL>,Laura Malvoa Rubilar,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+506,María Antonieta ,Saa,Díaz,María Antonieta Saa,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+507,<NULL>,<NULL>,<NULL>,Raúl Saa,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+508,<NULL>,<NULL>,<NULL>,María Antonieta Díaz.,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+509,<NULL>,<NULL>,<NULL>,Hosain Sabag Castillo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+510,<NULL>,<NULL>,<NULL>,Fresia Villalobos Rojas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+511,<NULL>,<NULL>,<NULL>,María Monserrat Sabag Brito,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+512,<NULL>,<NULL>,<NULL>,Trinidad María Sabag Brito,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+513,<NULL>,<NULL>,<NULL>,Luzmaría Asunción Sabag Brito,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+514,<NULL>,<NULL>,<NULL>,Teresita María Jesús Sabag Brito,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+515,<NULL>,<NULL>,<NULL>,Hasan Sabag Castillo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+516,<NULL>,<NULL>,<NULL>,Patricio Hosain Sabag Villalobos,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+517,<NULL>,<NULL>,<NULL>,Gloria Sabag Villalobos,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+518,Marcela Constanza ,Sabat,Fernández,Marcela Sabat,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+519,<NULL>,<NULL>,<NULL>,Pedro Sabat,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+520,<NULL>,<NULL>,<NULL>,Marcela Fernández.,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+521,René Fernando ,Saffirio,Espinoza,René Saffirio,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+522,<NULL>,<NULL>,<NULL>,Constantino Saffirio Vásquez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+523,<NULL>,<NULL>,<NULL>,Lya Espinoza Sánchez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+524,<NULL>,<NULL>,<NULL>,Rodrigo Saffirio López,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+525,<NULL>,<NULL>,<NULL>,Constanza Saffirio López,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+526,<NULL>,<NULL>,<NULL>,Eduardo Saffirio Suárez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+527,<NULL>,<NULL>,<NULL>,Jorge Saffirio Espinoza,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+528,Felipe  ,Salaberry,Soto,Felipe Salaberry,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+529,<NULL>,<NULL>,<NULL>,Isidora Salaberry Pavone,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+530,<NULL>,<NULL>,<NULL>,Santiago Salaberry Pavone,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+531,<NULL>,<NULL>,<NULL>,Antonia Salaberry Pavone,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+532,David  ,Sandoval,Plaza,David Sandoval,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+533,<NULL>,<NULL>,<NULL>,David Sandoval Albarrán,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+534,<NULL>,<NULL>,<NULL>,Ana Plaza Guzmán,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+535,<NULL>,<NULL>,<NULL>,Andrés Sandoval Acuña,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+536,<NULL>,<NULL>,<NULL>,Pamela Sandoval Acuña,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+537,<NULL>,<NULL>,<NULL>,Lucas Sandoval Acuña,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+538,Alejandro  ,Santana,Tirachini,Alejandro Santana,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+539,<NULL>,<NULL>,<NULL>,Bladimiro Santana,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+540,<NULL>,<NULL>,<NULL>,Oriana Tirachini,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+541,<NULL>,<NULL>,<NULL>,Belén Santana Queirolo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+542,<NULL>,<NULL>,<NULL>,Benjamín Santana Queirolo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+543,<NULL>,<NULL>,<NULL>,Bernardita Santana Queirolo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+544,Frank Carlos ,Sauerbaum,Muñoz,Frank Sauerbaum,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+545,<NULL>,<NULL>,<NULL>,Alberto Sauerbaum,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+546,<NULL>,<NULL>,<NULL>,Gabriela Muñoz,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+547,Marcelo Gastón ,Schilling,Rodríguez,Marcelo Schilling,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+548,<NULL>,<NULL>,<NULL>,Miguel Enrique Schilling Morras,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+549,Alejandra  ,Sepúlveda,Orbenes,Alejandra Sepúlveda,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+550,Gabriel  ,Silber,Romo,Gabriel Silber,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+551,<NULL>,<NULL>,<NULL>,Jaime Silber Merener,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+552,<NULL>,<NULL>,<NULL>,Carmen Romo Sepúlveda,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+553,Ernesto  ,Silva,Méndez,Ernesto Silva,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+554,<NULL>,<NULL>,<NULL>,Ernesto Silva Bufallay,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+555,<NULL>,<NULL>,<NULL>,María Cristina Méndez Ureta,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+556,<NULL>,<NULL>,<NULL>,María Gracia Silva Álamos,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+557,<NULL>,<NULL>,<NULL>,Catalina Silva Álamos,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+558,<NULL>,<NULL>,<NULL>,Ernesto Silva Álamos,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+559,Arturo  ,Squella,Ovalle,Arturo Squella,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+560,<NULL>,<NULL>,<NULL>,Arturo Squella Serrano,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+561,<NULL>,<NULL>,<NULL>,María Beatriz Ovalle Del Pedregal,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+562,Jorge  ,Tarud,Daccarett,Jorge Tarud,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+563,<NULL>,<NULL>,<NULL>,Rafael Tarud Siwady,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+564,<NULL>,<NULL>,<NULL>,Helene Daccarett Mobarec,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+565,<NULL>,<NULL>,<NULL>,Jean Paul Tarud Kuborn,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+566,<NULL>,<NULL>,<NULL>,Christopher Tarud Kuborn,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+567,Guillermo León ,Teillier,Del Valle,Guillermo Teillier,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+568,<NULL>,<NULL>,<NULL>,León Teillier,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+569,<NULL>,<NULL>,<NULL>,Guillermina del Valle,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+570,<NULL>,<NULL>,<NULL>,Fernando Teillier,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+571,<NULL>,<NULL>,<NULL>,Lorena Teillier,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+572,<NULL>,<NULL>,<NULL>,Pablo Teillier,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+573,<NULL>,<NULL>,<NULL>,Jorge Teillier Sandoval,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+574,Víctor Marcelo ,Torres,Jeldes,Víctor Torres,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+575,<NULL>,<NULL>,<NULL>,Víctor Hugo Torres Ruz,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+576,<NULL>,<NULL>,<NULL>,María Isabel Jeldes Castro,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+577,<NULL>,<NULL>,<NULL>,Sofía Torres Guinart,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+578,Joaquín  ,Tuma,Zedan,Joaquín Tuma,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+579,<NULL>,<NULL>,<NULL>,Juan Tuma Masso,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+580,<NULL>,<NULL>,<NULL>,Eugenio Tuma Zedan,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+581,Marisol  ,Turres,Figueroa,Marisol Turres,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+582,Jorge Iván ,Ulloa,Aguillón,Jorge Ulloa,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+583,Cristian Omar ,Letelier,Aguilar,Cristian Letelier,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+584,Ignacio  ,Urrutia,Bonilla,Ignacio Urrutia,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+585,<NULL>,<NULL>,<NULL>,Ignacio Urrutia del Río,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+586,<NULL>,<NULL>,<NULL>,Rebeca Bonilla,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+587,<NULL>,<NULL>,<NULL>,Ignacio Urrutia de la Sotta,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+588,Patricio Iván ,Vallespín,López,Patricio Vallespín,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+589,<NULL>,<NULL>,<NULL>,Rocío Vallespín,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+590,<NULL>,<NULL>,<NULL>,Fabián Vallespín,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+591,Enrique  ,Van Rysselberghe,Herrera,Enrique Van Rysselberghe,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+592,<NULL>,<NULL>,<NULL>,Enrique Van Rysselberghe Varela,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+593,<NULL>,<NULL>,<NULL>,María Norma Herrera Caire,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+594,<NULL>,<NULL>,<NULL>,Enrique van Rysselberghe Martínez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+595,<NULL>,<NULL>,<NULL>,Jacqueline van Rysselberghe,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+596,Orlando Severo ,Vargas,Pizarro,Orlando Vargas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+597,Pedro Antonio ,Velásquez,Seguel,Pedro Velásquez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+598,<NULL>,<NULL>,<NULL>,Ramón Velásquez Tabilo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+599,<NULL>,<NULL>,<NULL>,Rosa Elvira Seguel,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+600,<NULL>,<NULL>,<NULL>,Felipe Velásquez Navea,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+601,<NULL>,<NULL>,<NULL>,Rocío Velásquez Navea,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+602,<NULL>,<NULL>,<NULL>,Ramón Velásquez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+603,Mario Artidorio ,Venegas,Cárdenas,Mario Venegas,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+604,José Germán ,Verdugo,Soto,José Verdugo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+605,Ximena Leonor ,Vidal,Lázaro,Ximena Vidal,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+606,Carlos Alfredo ,Vilches,Guzmán,Carlos Vilches,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+607,Gastón  ,Von Mühlenbrock,Zamora,Gastón Von Mühlenbrock,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+608,<NULL>,<NULL>,<NULL>,Astrid Von Mühlenbrock Schlatter,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+609,<NULL>,<NULL>,<NULL>,Sven Von Mühlenbrock Schlatter,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+610,Matías  ,Walker,Prieto,Matías Walker,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+611,<NULL>,<NULL>,<NULL>,Matías Walker Fanjuly,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+612,<NULL>,<NULL>,<NULL>,Lucas  Walker Fanjul,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+613,<NULL>,<NULL>,<NULL>,Ignacio Walker Prieto,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+614,<NULL>,<NULL>,<NULL>,Patricio Walker Prieto,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+615,Felipe Andrés ,Ward,Edwards,Felipe Ward,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+616,<NULL>,<NULL>,<NULL>,Carlos Ward Duncan,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+617,<NULL>,<NULL>,<NULL>,María Teresa Edwards,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+618,<NULL>,<NULL>,<NULL>,Carlos Ward Edwards,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+619,Mónica Beatriz ,Zalaquett,Said,Mónica Zalaquett,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+620,<NULL>,<NULL>,<NULL>,Antonio Zalaquett,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+621,<NULL>,<NULL>,<NULL>,Beatriz Said,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+622,<NULL>,<NULL>,<NULL>,Nicole Garafulic Zalaquett,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+623,<NULL>,<NULL>,<NULL>,Diego Garafulic Zalaquett,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+624,<NULL>,<NULL>,<NULL>,Tomás Garafulic Zalaquett,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+625,<NULL>,<NULL>,<NULL>,Matías Garafulic Zalaquett,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+626,<NULL>,<NULL>,<NULL>,Pablo Zalaquett Said,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+628,Gonzalo,Meza,,Gonzalo Meza,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+629,Gutenberg,Martínez,Ocamica,Gutenberg Martínez Ocamica,1950-08-29,44,||,<NULL>,"Ex diputado demócrata cristiano, uno de los hombres más influyente dentro de su partido. Esposo de la actual senadora y ex ministra de los gobiernos de la Concertación, Soledad Alvear.  Definido por algunos como una estratega político. Con poder, hermético cuando la situación lo exige y conocedor de la política, sus vericuetos y personajes. Respetado y, también, con una buena cuota de detractores.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+630,Carmen Paz,Allende,Bussi,Carmen Paz Allende Bussi,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+631,María Teresa ,Alvear,Valenzuela,María Teresa Alvear Valenzuela,<NULL>,44,||,<NULL>,Concejal por la Municipalidad de Puente Alto (2009-2012),,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+632,<NULL>,<NULL>,<NULL>,Eugenia Alvear Valenzuela,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+633,<NULL>,<NULL>,<NULL>,Blanca Retamal,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+634,Luis Romilio,Tambutti,Retamales,Luis Romilio Tambutti Retamales,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+635,<NULL>,<NULL>,<NULL>,Mónica Barrios Acosta,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+636,<NULL>,<NULL>,<NULL>,María Cecilia Álamos Jordan,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+637,María Francisca ,Hoffmann,Opazo,María Francisca Hoffmann,<NULL>,44,||,<NULL>,"Esposa de Juan Antonio Coloma Alamos, hermana de la diputada UDI María José Hoffman.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+638,Juan Antonio ,Coloma,Mellado,Juan Antonio Coloma Mellado,1906-01-01,44,||,<NULL>,"Abogado y político chileno que militó en los partidos Conservador, Conservador Tradicionalista y Conservador Unido. Senador en representación de la Quinta Agrupación Provincial O’Higgins y Colchagua para el período 1953 – 1961. Anteriormente, Diputado por cinco períodos consecutivos entre 1933 y 1953. Fue Presidente de la Cámara de Diputados entre el 22 de mayo de 1945 y el 24 de mayo de 1949.
+",,True,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+639,Raquel,Reyes,Moya,Raquel Reyes Moya,<NULL>,44,||,<NULL>,,,True,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+640,<NULL>,<NULL>,<NULL>,Fernando Coloma Reyes,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+641,Sandra,Ibáñez,Chesta,Sandra Ibáñez Chesta,<NULL>,44,||,<NULL>,Jueza del Tribunal de Familia de Viña del Mar.,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+642,<NULL>,<NULL>,<NULL>,Claudia Pardo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+643,<NULL>,<NULL>,<NULL>,Jimena Tricallota,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+644,<NULL>,<NULL>,<NULL>,María Elena Donoso Peña,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+645,<NULL>,<NULL>,<NULL>,Marta Larraechea Bolívar,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+646,Carmen,Frei,Ruiz-Tagle,Carmen Frei Ruiz-Tagle,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+647,Arturo,Frei,Bolívar,Arturo Frei Bolívar,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+648,Francisco Javier,Frei,Ruiz-Tagle,Francisco Frei Ruiz-Tagle,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+649,<NULL>,<NULL>,<NULL>,Alberto Coddou Claramunt,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+650,<NULL>,<NULL>,<NULL>,Eugenio Ortega Riquelme,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+651,Arturo,Frei,Montalva,Arturo Frei Montalva,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+652,<NULL>,<NULL>,<NULL>,Marcela Bolívar Le Fort,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+653,<NULL>,<NULL>,<NULL>,María Beatriz Riutort Barrenechea,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+654,Irene,Frei,Montalva,Irene Frei Montalva,<NULL>,44,||,<NULL>,,,True,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+655,María Irene,Frei,Ruiz-Tagle,Irene Frei Ruiz-Tagle,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+656,Isabel Margarita,Frei,Ruiz-Tagle,Isabel Margarita Frei Ruiz-Tagle,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+657,Mónica,Frei,Ruiz-Tagle,Mónica Frei Ruiz-Tagle,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+658,Jorge,Frei,Ruiz-Tagle,Jorge Frei Ruiz-Tagle,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+659,<NULL>,<NULL>,<NULL>,María Paz Ortega Frei,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+660,<NULL>,<NULL>,<NULL>,María Francisca Ortega Frei,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+661,<NULL>,<NULL>,<NULL>,Jorge Andrés Frei Toledo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+662,<NULL>,<NULL>,<NULL>,Gonzalo Frei Toledo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+663,<NULL>,<NULL>,<NULL>,Raimundo Frei Toledo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+664,Paula María,Urzúa,Frei,Paula María Urzúa Frei,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+665,<NULL>,<NULL>,<NULL>,Pedro Urzúa Frei,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+666,Álvaro Fernando,Erazo,Latorre,Álvaro Erazo,1958-08-15,44,||,<NULL>,"Médico, académico, investigador y político chileno, ex ministro de Salud  (2008-2010) del Gobierno de la presidenta Michelle Bachelet. Miembro del Partido Socialista, entre 1994 y 1998 fue jefe de gabinete de la Subsecretaría de Salud. En 1998 fue intendente de Santiago. Ése mismo año y hasta el 2000 ejerció como subsecretario de Salud y entre el 2000 y 2006 como director del Fondo Nacional de Salud (Fonasa). En abril de 2006 fue designado por Michelle Bachelet como director de BancoEstado, junto a Nicolás Eyzaguirre, Francisco Vidal y Sergio Páez.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+667,Joaquín,Erazo,Espinoza,Joaquín Erazo,<NULL>,44,||,<NULL>,"Hijo del ex ministro de Salud, Álvaro Erazo, que fue sentenciado en 2009 a 150 días de reclusión nocturna, tras ser declarado culpable del delito de microtráfico de drogas.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+668,María Soledad,Barría,Iroumé,María Soledad Barría,1953-10-27,44,||,<NULL>,"Médico, académica y política socialista chilena. Ex ministra de Salud (2006-2008). Una de las más cercanas a Michelle Bachelet.Se conocen desde que estudiaban medicina en la Universidad de Chile. Su gestión, sin embargo, enfrentó complejas situaciones comunicacionales, donde destacaron los conflictos con los gremios, la inauguración de un hospital que no se encontraba debidamente preparado y, finalmente, el escándalo por una negligencia en la notificación a personas contagiadas de VIH en Iquique, en el norte del país. Dicha situación detonó finalmente que presentara su renuncia el 27 de octubre de 2008, la que fue aceptada el día 28.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+669,Daniel,Barría,,Daniel Barría,<NULL>,44,||,<NULL>,Político democratacristiano. Subsecretario de Agricultura durante el Gobierno de Eduardo Frei Montalva y luego embajador de Chile en Yugoslavia.,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+670,<NULL>,<NULL>,<NULL>,Oscar Neira,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+671,<NULL>,<NULL>,<NULL>,Paz Neira Barría,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+672,<NULL>,<NULL>,<NULL>,Vicente Neira Barría,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+673,<NULL>,<NULL>,<NULL>,Michelle Bachelet,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+674,<NULL>,<NULL>,<NULL>,Cristián Barría Iroumé ,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+675,<NULL>,<NULL>,<NULL>,Fanny Pollarolo,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+676,Hernán,Monasterio,Irazoque,Hernán Monasterio Irazoque,<NULL>,44,||,<NULL>,"Médico psiquiatra y especialista en Salud Pública. Dirigió el Fondo Nacional de Salud (Fonasa) entre los años 2006 y 2010, durante el gobierno de la Presidenta Michelle Bachelet, de quien se le reconocía como uno de sus cercanos en el área. En mayo de 2012 la Contraloría General de la República lo sancionó con el pago de alrededor de $60 millones al fisco por el mal uso de los gastos de representación que le correspondían a su cargo, cuando estaba al mando del seguro público de salud.
+
+FUENTE: http://diario.elmercurio.com/detalle/index.asp?id={9da0b4fc-6ad5-46a2-980b-0218f64c76e7}
+",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+677,Claudia Inés,Serrano,Madrid,Claudia Serrano,1957-02-17,44,||,<NULL>,"Socióloga, ministra del Trabajo y Previsión Social (2008-2010) durante el gobierno de Michelle Bachelet.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+678,<NULL>,<NULL>,<NULL>,Miguel Crispi Serrano,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+679,<NULL>,<NULL>,<NULL>,José Miguel Crispi,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+680,Patricio,Tapia,Santibáñez,Patricio Tapia Santibáñez,<NULL>,44,||,<NULL>,Ex Gerente General de Correos de Chile en el gobierno de Michelle Bachelet.,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+681,Verónica,Serrano,Madrid,Verónica Serrano Madrid,<NULL>,44,||,<NULL>,"Arquitecta. Fue directora Nacional Arquitectura del Ministerio de Obras Públicas (MOP) en el gobierno de Michelle Bachelet. Estuvo a cargo, entre otras cosas, de la construcción de los nuevos estadios, el Centro Cultural Gabriela Mistral y el Museo de la Memoria.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+682,Alejandra,Serrano,Madrid,Alejandra Serrano Madrid,<NULL>,44,||,<NULL>,Directora del Centro Cultural Palacio La Moneda.,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+683,Víctor,Serrano,Madrid,Víctor Serrano Madrid,<NULL>,44,||,<NULL>,Ex director de Operaciones de Jardines Infantiles. Fundación Integra.,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+684,<NULL>,<NULL>,<NULL>,Claudia Martínez Alvarez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+685,Ema Myriam,Olate,Berríos,Myriam Olate,<NULL>,44,||,<NULL>,"Periodista de profesión, ex subdirectora técnica de Gendarmería.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+686,<NULL>,<NULL>,<NULL>,Andrés Chadwick,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+687,<NULL>,<NULL>,<NULL>, Carlos Bombal,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+688,<NULL>,<NULL>,<NULL>,Jaime Guzmán,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+689,<NULL>,<NULL>,<NULL>,Edmundo Pérez Vergara,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+690,<NULL>,<NULL>,<NULL>,Edmundo Pérez Yoma,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+691,<NULL>,<NULL>,<NULL>,Edmundo Pérez Zujovic,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+692,<NULL>,<NULL>,<NULL>,Blanca Pérez Frei,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+693,<NULL>,<NULL>,<NULL>,Elena Pérez Frei,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+694,<NULL>,<NULL>,<NULL>,Edmundo Pérez Frei,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+695,<NULL>,<NULL>,<NULL>,Paz Vergara,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+696,<NULL>,<NULL>,<NULL>,Felipe Gerdtzen,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+697,<NULL>,<NULL>,<NULL>,Isabel Margarita Toledo García,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+698,<NULL>,<NULL>,<NULL>, Ana María Parada Quesada,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+699,<NULL>,<NULL>,<NULL>,María Ruiz-Tagle Jiménez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+700,<NULL>,<NULL>,<NULL>,Francisco Frei Parada,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+701,<NULL>,<NULL>,<NULL>,Matías Frei Parada,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+702,<NULL>,<NULL>,<NULL>,Nicolás Frei Parada,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+703,<NULL>,<NULL>,<NULL>,Ana María Frei Parada,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+704,<NULL>,<NULL>,<NULL>,Pedro Urzúa Meyer,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+705,<NULL>,<NULL>,<NULL>,Mónica Urzúa Frei,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+706,<NULL>,<NULL>,<NULL>,Hernán Robinson Calderón,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+707,<NULL>,<NULL>,<NULL>,Eduardo Cumar Valdés,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+708,<NULL>,<NULL>,<NULL>,Raimundo Cumar Frei,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+709,<NULL>,<NULL>,<NULL>,Jaime Vas Carrasco,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+710,Nivia,Palma,,Nivia Palma,<NULL>,44,||,<NULL>,"Estuvo a cargo  de la Dirección de Bibliotecas Archivos y Museos (DIBAM) entre los años 2006-2010, casada con el diputado Sergio Aguiló.  Es abogada y fue coordinadora del Fondart hasta que renunció en 2002 debido a las presiones de la Armada y el ministerio de Educación, entonces a cargo de Mariana Aylwin, por el estreno de la obra “Prat”.  Antes de quedar al frente de la Dibam, donde impulsó entre otras cosas la entrega del Maletín Literario y la devolución de libros a Perú.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+711,Elinett,Wolff,Rioseco,Elinett Wolff,<NULL>,44,||,<NULL>,"Experta en telecomunicaciones  y ex pareja de Camilo Escalona. Wolff contaba con más de 25 años de experiencia en control de gestión y desarrollo de proyectos, cuando fue nombrada subsecretaria de Transportes por Michelle Bachelet. Sin embargo, en abril de 2008, a raíz de una publicación de El Mostrador indicando que la subsecretaria vendía frambuesas en horas de trabajo, Wolff tuvo que  renunciar. Trabajó en temas de transparencia para la Municipalidad de La Florida, encabezada por el actor Jorge Gajardo.
+Fuente:
+http://www.elmostrador.cl/noticias/pais/2008/04/23/el-insolito-pituto-de-la-subsecretaria-que-vende-frambuesas/",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+712,Laura,Pizarro,Araya,Laura Pizarro Araya,<NULL>,44,||,<NULL>,"Directora Regional Metropolitana del Consejo Nacional de la Cultura (2006-2010). Fue pareja de Camilo Escalona antes que el senador conociera a su actual esposa, Jimena Tricallota.  Pizarro estudió Derecho en la Universidad Arcis y en su currículo oficial figura como egresada aunque se tituló en 2008. Se especializa en derechos de autor. Antes de su actual cargo, al que llegó  en abril de 2006, fue coordinadora de concursos de la Secretaría  Ejecutiva del Consejo del Arte y la Industria Audiovisual y productora ejecutiva del Fondart.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+713,Héctor,Iribarren,Valdés,Héctor Iribarren Valdés,<NULL>,44,||,<NULL>,"Ingeniero civil industrial. Participó en la dirección clandestina del PS.  Iribarren fue jefe de gabinete de Elinett Wolf en 2008, seremi de Trabajo y Transporte  de la Sexta Región. Estaba en Transporte cuando estalló el escándalo de las revisiones técnicas en Rancagua. Era el jefe de gabinete de Álvaro Erazo.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+714,José Emilio,Dollenz,,José Emilio Dollenz,<NULL>,44,||,<NULL>,"Militante PS histórico, fue el úlltimo director de la Digeder antes de transformarse en Chiledeportes. Fue asesor contratado a honorarios de la subsecretaria de Transportes Elinett Wolf en 2008, junto a Héctor Iribarren.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+715,<NULL>,<NULL>,<NULL>,Osvaldo Andrade padre,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+716,Simón,Escalona,Medina,Simón Escalona,<NULL>,44,||,<NULL>,"No tiene buenas relaciones con su hermano Camilo Escalona, incluso lo ha criticado en público. Tal como informó El Mostrador en marzo de 2008, Simón Escalona recibía sueldo por 15 años de Gendarmería como funcionario del servicio de prisiones. Pero gran parte de este tiempo lo pasó en comisión de servicio en otras instituciones y cuando volvió presentó varias licencias medicas. Paralelamente, desarrolló una activa vida partidaria y también figuraba como sostenedor de colegios. Enterado de la irregularidad, el Director de Gendarmería Alejandro Jiménez, obligó a Simón Escalona a renunciar.
+
+FUENTE: http://www.elmostrador.cl/noticias/pais/2008/03/18/rn-pedira-que-simon-escalona-pague-dinero-que-recibio-en-gendarmeria/",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+717,<NULL>,<NULL>,<NULL>,Claudia Palma,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+718,Raúl,Erazo,Torricelli,Raúl Erazo Torricelli,<NULL>,44,||,<NULL>,"Elinett Wolff dejó la subsecretaría de Transportes el 23 de abril de 2008. Un mes después, el 30 de mayo exactamente. La presidenta Michelle Bachelet designa en el cargo a Raúl Erazo Torricelli, de la misma facción PS. Ingeniero civil con experiencia en transporte en Finlandia, Cuba y Ecuador. Antes de su designación era asesor de la Coordinación de Fiscalización de Obras Públicas del MOP.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+719,Alberto,Barrera,,Alberto Barrera,<NULL>,44,||,<NULL>,"Principal asesor del ex ministro del Trabajo Osvaldo Andrade (2006-2008). Militante histórico de la Nueva Izquierda del Partido Socialista,  participó en varias campañas parlamentarias de Camilo Escalona.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+720,Alberto,Arenas de Mesa,,Alberto Arenas,1965-10-05,44,||,<NULL>,"Economista, académico, investigador y político socialista chileno. En marzo de 2006 asumió como director de Presupuesto de la presidenta Michelle Bachelett formando equipo con el ministro Andrés Velasco en Hacienda. Estuvo en el cargo hasta febrero de 2010)",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+721,<NULL>,<NULL>,<NULL>,Andrés Velasco,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+722,Mahmud   ,Aleuy,Peña y Lillo,Mahmud Aleuy,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+723,<NULL>,<NULL>,<NULL>,Alejandra Jorquera,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+724,<NULL>,<NULL>,<NULL>,Patricia Poblete,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+725,Mirta,Escalona,Medina,Mirta Escalona,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+726,<NULL>,<NULL>,<NULL>,Camilo Escalona Jorquera,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+727,<NULL>,<NULL>,<NULL>,Berta Medina Meneses,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+728,<NULL>,<NULL>,<NULL>,Axel Callis,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+729,Ana Lya del Carmen,Uriarte,Rodríguez,Ana Lya Uriarte,1962-07-17,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+730,<NULL>,<NULL>,<NULL>,Claudio Troncoso,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+731,<NULL>,<NULL>,<NULL>,Lya Rodríguez,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+732,<NULL>,<NULL>,<NULL>,Francisco Uriarte,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+733,Paulina Eliana,Veloso,Valenzuela,Paulina Veloso,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+734,<NULL>,<NULL>,<NULL>,Dora Escobar,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+735,<NULL>,<NULL>,<NULL>,María Eugenia Llompart Cosmelli,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+736,<NULL>,<NULL>,<NULL>,Paula Echeñique,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+737,<NULL>,<NULL>,<NULL>,Andrée Brière,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+738,<NULL>,<NULL>,<NULL>,Cristóbal Girardi,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+739,<NULL>,<NULL>,<NULL>,Mario Gómez López,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+740,<NULL>,<NULL>,<NULL>,Ximena Passi,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+741,<NULL>,<NULL>,<NULL>,Mauricio Daza Carrasco,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+742,<NULL>,<NULL>,<NULL>,Delia Verónica Rietzsch Baader,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+743,<NULL>,<NULL>,<NULL>,Ximena Lagos Weber,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+744,<NULL>,<NULL>,<NULL>,Francisca Lagos Durán,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+745,<NULL>,<NULL>,<NULL>,Gloria Peña,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+751,Luisa,Durán,De la Fuente,Luisa Durán,1941-02-27,44,||,<NULL>,"Es la segunda y actual esposa del ex presidente chileno Ricardo Lagos, y en esa condición acompañó a su marido durante su mandato en la Presidencia de la República de Chile entre 2000 y 2006.
+Aunque su cargo debió haber sido el de Primera Dama, ella prefirió ser tratada como la Señora del Presidente de la República.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+752,<NULL>,<NULL>,<NULL>,Eduardo Aninat,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+753,Ema,Escobar,Morales,Ema Escobar Morales,<NULL>,44,||,<NULL>,,,True,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+754,Froilán,Lagos,Sepúlveda,Froilán Lagos Sepúlveda,<NULL>,44,||,<NULL>,,,True,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+755,<NULL>,<NULL>,<NULL>,Fresia Escobar Morales,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,<NULL>,<NULL>,<NULL>,<NULL>
+756,Magdalena,Matte,Lecaros,Magdalena Matte Lecaros,1950-08-13,44,||,<NULL>,"Política chilena, militante de la Unión Demócrata Independiente (UDI), ex ministra de Vivienda y Urbanismo (2010-2011) del Gobierno del presidente Sebastián Piñera. Está casada con el senador Hernán Larraín. Es prima en tercer grado de Patricia, Eliodoro y Bernardo Matte Larraín, actuales controladores de Empresas CMPC y uno de los grupos empresariales más ricos e influyentes de Chile.",,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+757,Hernán Cresente,Larraín,Ríos,Hernán Larraín Ríos,<NULL>,44,||,<NULL>,,,False,,,,,True,<NULL>,<NULL>,<NULL>,<NULL>
+758,<NULL>,<NULL>,<NULL>,María Victoria Hurtado Vicuña,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-03 10:20:45,12,2012-08-03 10:20:45,12
+759,<NULL>,<NULL>,<NULL>,Roberto Ossandón Irarrázaval,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-03 12:24:34,12,2012-08-03 12:24:34,12
+760,<NULL>,<NULL>,<NULL>,Fernando Larraín Peña,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-03 12:29:28,12,2012-08-03 12:29:28,12
+761,Fernando,Coloma,Correa,Fernando Coloma Correa,1958-05-12,44,||,<NULL>,"Economista, académico, investigador y consultor chileno, superintendente de Valores y Seguros del Gobierno del presidente Sebastián Piñera. Es hermano Juan Antonio Coloma (UDI) y también de Pablo Coloma, militante PPD que lideró el Fosis bajo la presidencia de Bachelet.",,False,,,,,False,2012-08-03 14:51:52,12,2012-08-03 14:54:04,12
+762,<NULL>,<NULL>,<NULL>,Juan Pablo Coloma Correa,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-03 15:00:13,12,2012-08-03 15:00:13,12
+763,<NULL>,<NULL>,<NULL>,Rodrigo Coloma Correa,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-03 15:00:36,12,2012-08-03 15:00:36,12
+764,<NULL>,<NULL>,<NULL>,Ignacio Coloma Correa,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-03 15:00:53,12,2012-08-03 15:00:53,12
+765,<NULL>,<NULL>,<NULL>,Rafael Ossandón Irarrázabal,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-03 15:06:50,12,2012-08-03 15:06:50,12
+766,<NULL>,<NULL>,<NULL>,Ignacio Ossandón Irarrázabal,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-03 15:07:05,12,2012-08-03 15:07:05,12
+767,<NULL>,<NULL>,<NULL>,Olga Ossandón Irarrázabal,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-03 15:07:19,12,2012-08-03 15:07:19,12
+768,<NULL>,<NULL>,<NULL>,Ximena Ossandón Irarrázabal,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-03 15:07:46,12,2012-08-03 15:07:46,12
+769,<NULL>,<NULL>,<NULL>,Manuel José Ossandón Irarrázabal,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-03 15:08:13,12,2012-08-03 15:08:13,12
+770,<NULL>,<NULL>,<NULL>,Marko Jürgensen Kröneberg,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-03 16:42:46,12,2012-08-03 16:42:46,12
+771,<NULL>,<NULL>,<NULL>,Joaquín Montero Ossandón,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-03 16:43:57,12,2012-08-03 16:43:57,12
+772,<NULL>,<NULL>,<NULL>,Gabriel Ossandón Valdés,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-03 16:56:42,12,2012-08-03 16:56:42,12
+773,<NULL>,<NULL>,<NULL>,Roberto Ossandón Valdés,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-03 18:08:50,12,2012-08-03 18:08:50,12
+774,<NULL>,<NULL>,<NULL>,Ximena Irarrázaval Correa,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-03 18:09:31,12,2012-08-03 18:09:31,12
+775,<NULL>,<NULL>,<NULL>,Paula Lira Correa,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-03 18:11:59,12,2012-08-03 18:11:59,12
+776,<NULL>,<NULL>,<NULL>,María Soledad Larraín Troncoso,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-03 18:23:01,12,2012-08-03 18:23:01,12
+777,<NULL>,<NULL>,<NULL>,Bernardo Larraín Vial,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-03 18:23:40,12,2012-08-03 18:23:40,12
+778,<NULL>,<NULL>,<NULL>,Bernardo Ossandón Larraín,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-03 18:24:39,12,2012-08-03 18:24:39,12
+779,<NULL>,<NULL>,<NULL>,Manuel Ossandón Larraín,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-03 18:24:53,12,2012-08-03 18:24:53,12
+780,<NULL>,<NULL>,<NULL>,Gabriel Ossandón Larraín,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-03 18:25:47,12,2012-08-03 18:25:47,12
+781,<NULL>,<NULL>,<NULL>,María Soledad  Ossandón Larraín,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-03 18:26:03,12,2012-08-03 18:26:03,12
+782,<NULL>,<NULL>,<NULL>,María Teresa Ossandón Larraín,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-03 18:26:18,12,2012-08-03 18:26:18,12
+783,Marcos Orlando,Letelier,Del Solar,Orlando Letelier,<NULL>,44,||,<NULL>,,,False,,,,,False,2012-08-06 15:44:05,12,2012-08-06 15:44:36,12
+784,<NULL>,<NULL>,<NULL>,Cristián Alfredo Letelier Morel,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-06 15:50:36,12,2012-08-06 15:50:36,12
+785,<NULL>,<NULL>,<NULL>,José Ignacio Letelier Morel,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-06 15:50:48,12,2012-08-06 15:50:48,12
+786,<NULL>,<NULL>,<NULL>,Francisco Javier Letelier Morel,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-06 15:51:02,12,2012-08-06 15:51:02,12
+787,<NULL>,<NULL>,<NULL>,Marcela Briones,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-06 15:53:13,12,2012-08-06 15:53:13,12
+788,<NULL>,<NULL>,<NULL>,Orlando Letelier Ruiz,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-06 16:18:29,12,2012-08-06 16:18:29,12
+789,<NULL>,<NULL>,<NULL>,Inés del Solar Rosenberg,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-06 16:18:40,12,2012-08-06 16:18:40,12
+790,<NULL>,<NULL>,<NULL>,Mariana Letelier del Solar,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-06 16:19:02,12,2012-08-06 16:19:02,12
+791,<NULL>,<NULL>,<NULL>,Fabiola Letelier del Solar,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-06 16:19:22,12,2012-08-06 16:19:22,12
+792,<NULL>,<NULL>,<NULL>,Ana García,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-08 10:38:05,12,2012-08-08 10:38:05,12
+793,<NULL>,<NULL>,<NULL>,Araxza Navarro García,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-08 10:40:25,12,2012-08-08 10:40:25,12
+794,<NULL>,<NULL>,<NULL>,América Navarro García,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-08 10:40:37,12,2012-08-08 10:40:37,12
+795,<NULL>,<NULL>,<NULL>,Alonso Navarro García,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-08 10:40:57,12,2012-08-08 10:40:57,12
+796,<NULL>,<NULL>,<NULL>,Antonia Navarro García,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-08 10:41:10,12,2012-08-08 10:41:10,12
+797,<NULL>,<NULL>,<NULL>,María Angélica Mackenna Echaurren,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-08 11:21:45,12,2012-08-08 11:21:45,12
+798,<NULL>,<NULL>,<NULL>,Sergio Gutiérrez Irarrázabal,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-08 15:45:46,12,2012-08-08 15:45:46,12
+799,<NULL>,<NULL>,<NULL>,Juan Eduardo Ibáñez Walker,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-08 15:48:11,12,2012-08-08 15:48:11,12
+800,<NULL>,<NULL>,<NULL>,Ernesto Illanes,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-08 15:58:02,12,2012-08-08 15:58:02,12
+801,<NULL>,<NULL>,<NULL>,Felipe Lamarca,<NULL>,44,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,False,2012-08-08 16:05:43,12,2012-08-08 16:05:43,12
+802,José Ramón  ,Aboitiz ,Domínguez ,José Ramón Aboitiz,<NULL>,44,<NULL>,<NULL>,Gerente General de Sigdopack. Forma parte del directorio de Sigdo Koppers,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+803,Roberto  ,Angelini,Rossi,Roberto Angelini,<NULL>,44,<NULL>,<NULL>,Timonel del Grupo Angelini,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+804, Felipe   ,Briones,Goich,Felipe Briones,<NULL>,44,<NULL>,<NULL>,Presidente de Pesquera Yadrán,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+805,Juan Hernán  ,Briones,Goich,Hernán Briones,<NULL>,44,<NULL>,<NULL>,Accionista de Indura y Cementos Bío Bío,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+806,Juan Pablo ,Briones ,Goich,Pablo Briones,<NULL>,44,<NULL>,<NULL>,Accionista de Indura y Cementos Bío Bío,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+807,Carlos  Francisco  ,Cáceres,Contreras,Carlos Cáceres,<NULL>,44,<NULL>,<NULL>,Economista y empresario. Ex Ministro del Interior y de Hacienda durante el régimen militar del General Augusto Pinochet y miembro de los llamados “Chicago Boys”,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+808,Marcelo  ,Calderón,Crispín,Maxo Calderón,<NULL>,44,<NULL>,<NULL>,Ex controlador de las tiendas por departamento,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+809,Alberto  ,Calderón,Crispín,Alberto Calderón,<NULL>,44,<NULL>,<NULL>,Accionista controlador de las tiendas por departamento Ripley,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+810,Sergio  Arnaldo ,Cardone,Solari,Sergio Cardone,<NULL>,44,<NULL>,<NULL>,Presidente de Mall Plaza,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+811,Manuel  ,Cruzat,Infante,Manuel Cruzat,<NULL>,44,<NULL>,<NULL>,Empresario,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+812,Enrique Miguel ,Cueto,Plaza,Enrique Cueto,<NULL>,44,<NULL>,<NULL>, Vicepresidente ejecutivo y miembro de la familia controladora de la aerolínea LAN Airlines,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+813,Ignacio Javier ,Cueto ,Plaza,Ignacio Cueto ,<NULL>,44,<NULL>,<NULL>,Gerente general y miembro del Grupo Cueto,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+814,Juan José ,Cueto ,Plaza,Juan José Cueto,<NULL>,44,<NULL>,<NULL>,Accionista de Lan.  Multado en 2009 junto al entonces abanderado presidencial de la derecha,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+815,Juan  ,Cúneo,Solari,Juan Cuneo,<NULL>,44,<NULL>,<NULL>,Socio y presidente de las tiendas por departamento,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+816,Carlos Alberto ,Délano,Abbot,Carlos Alberto “Choclo” Délano,<NULL>,44,<NULL>,<NULL>,Dueño,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+817,José Luis ,Del Río,Goudie,José Luis del Río,<NULL>,44,<NULL>,<NULL>,Dueño junto a sus hermanos del holding familiar Dersa,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+818,Juan Eduardo ,Errázuriz,Ossa,Juan Eduardo Errázuriz,<NULL>,44,<NULL>,<NULL>,Accionista y presidente de Sigdo Koopers,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+819,Eduardo  ,Fernández,León,Eduardo Fernández León,<NULL>,44,<NULL>,<NULL>,Empresario ligado al Opus Dei,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+820,Matías  Alberto ,Garcés ,Silva ,Matías Garcés,<NULL>,44,<NULL>,<NULL>,Socio y Director Ejecutivo de Amayna,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+821,José  Antonio  ,Garcés ,Silva ,José Antonio Garcés ,<NULL>,44,<NULL>,<NULL>,Accionista de Consorcio,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+822,Sylvia   ,Goich ,,Sylvia  Goich ,<NULL>,44,<NULL>,<NULL>,Viuda de Hernán Briones Gorostiaga,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+823,Rafael  ,Guilisasti,Gana,Rafael Guilisasti,<NULL>,44,<NULL>,<NULL>,Director y vice presidente de Viña Concha y Toro; Gerente General de Viñedos Emiliana S.A.,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+824,Pablo  ,Guilisasti,Gana,Pablo Guilisasti,<NULL>,44,<NULL>,<NULL>,Director de Viña Concha y Toro y director y vicepresidente de Frutícola Viconto,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+825,Eduardo   ,Guilisasti ,Gana,Eduardo Guilisasti,<NULL>,44,<NULL>,<NULL>,Gerente General de Viña Concha y Toro,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+826, José  ,Guilisasti,Gana,José Guilisasti,<NULL>,44,<NULL>,<NULL>,Gerente general de Emiliana,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+827,Isabel  ,Guilisasti,Gana,Isabel Guilisasti,<NULL>,44,<NULL>,<NULL>,Del clan Giulisasti,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+828,Carlos  ,Heller,Solari,Carlos Heller,<NULL>,44,<NULL>,<NULL>, Hijo de Liliana Solari,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+829,José  Luis ,Hornauer   ,Herrmann,José Luis Hornauer   ,<NULL>,44,<NULL>,<NULL>,Empresario y Vicepresidente de la Compañía General de Electricidad (CGE),<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+830,Juan José ,Hurtado,Vicuña,Juan Hurtado Vicuña,<NULL>,44,<NULL>,<NULL>,En tiempos del regimen militar,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+831,Pedro  ,Hurtado  ,Vicuña,Pedro Hurtado Vicuña,<NULL>,44,<NULL>,<NULL>,Hermano de Juan Hurtado Vicuña. Se ha concentrado en las inversiones agrícolas y acuícolas. Junto con su esposa dirige el Haras Paso Nevado,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+832,José  Ignacio ,Hurtado  ,Vicuña,José Hurtado Vicuña,<NULL>,44,<NULL>,<NULL>,Directorio de Almendral,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+833,Manuel  ,Ibáñez,Scott,Manuel Ibáñez,<NULL>,44,<NULL>,<NULL>,Empresario agrícola. Se instaló y echó raíces en la  comuna de  Panquehue en la provincia de San Felipe. Dueño del Fundo Los Hornos de Panquehue,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+834,Felipe Roberto Adolfo,Ibáñez,Scott,Felipe Ibáñez,<NULL>,44,<NULL>,<NULL>,Accionista minoritario y actual presidente de Walmart Chile (supermercados Líder,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+835,Nicolás Cirilo ,Ibáñez,Scott,Nicolás Ibáñez,<NULL>,44,<NULL>,<NULL>,Accionista minoritario de Walmart Chile,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+836,Pedro  ,Ibáñez,Santa María,Pedro Ibáñez,<NULL>,44,<NULL>,<NULL>,Dueño de Córpora Tres Montes,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+837,Gonzalo  ,Ibáñez ,Langlois,Gonzalo Ibáñez,<NULL>,44,<NULL>,<NULL>,Vicepresidente del directorio de Almendral,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+838,Roberto  ,Izquierdo,Menéndez,Roberto Izquierdo,<NULL>,44,<NULL>,<NULL>,Presidente de la Asociación de Industriales Pesqueros ASIPES,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+839,Fernando  ,Larraín ,Peña,Fernando Larraín,<NULL>,44,<NULL>,<NULL>,Empresario,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+840,Carlos Eugenio ,Lavín,Gracía-Hudobro,Carlos Eugenio Lavín,<NULL>,44,<NULL>,<NULL>,Empresario,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+841,Guillermo Antonio ,Luksic,Craig,Guillermo Luksic,<NULL>,44,<NULL>,<NULL>,Segundo hijo de Andrónico Luksic Abaroa,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+842,Andrónico  ,Luksic,Craig,Andrónico Luksic (Hijo),<NULL>,44,<NULL>,<NULL>,Hijo mayor de Andrónico Luksic Abaroa,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+843,Jean Paul ,Luksic,Fontbona,Jean Paul Luksic ,<NULL>,44,<NULL>,<NULL>,El menor de los hijos hombres de Andrónico Luksic Abaroa fue quien se hizo cargo de Antofagasta plc,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+844,María  Paola ,Luksic,Fontbona,Paola Luksic,<NULL>,44,<NULL>,<NULL>,Es la mayor de las mujeres y la tercera de los cinco hijos del patriarca de la minería chilena,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+845,María  Gabriela  ,Luksic,Fontbona,Gabriela Luksic,<NULL>,44,<NULL>,<NULL>,Es la hija menor de Andrónico Luksic Abaroa y la de más bajo perfil,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+846,Andrónico  ,Luksic,Lederer,Andrónico Luksic Lederer (Nieto),<NULL>,44,<NULL>,<NULL>,Es el mayor de los nietos de Andrónico Luksic Abaroa,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+847,Jorge Eduardo ,Marín,Correa,Jorge Marín,<NULL>,44,<NULL>,<NULL>,Presidente de CGE,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+848,Eliodoro  ,Matte,Larraín,Eliodoro Matte,<NULL>,44,<NULL>,<NULL>,Jerarca de la tercera fortuna más grande de Chile,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+849,Bernardo  ,Matte,Larraín,Bernardo Matte,<NULL>,44,<NULL>,<NULL>,,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+850,María  Patricia ,Matte,Larraín,Patricia Matte,<NULL>,44,<NULL>,<NULL>,Socióloga,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+851,Jorge Bernardo ,Larraín ,Matte,Bernardo Larraín ,<NULL>,44,<NULL>,<NULL>,Empresario y actual presidente de la empresa productora de electricidad,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+852,Sergio   ,Lecaros,Menéndez,Sergio Lecaros ,<NULL>,44,<NULL>,<NULL>,Controlador de la pesquera Coloso S.A ,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+853,Andrés  ,Navarro,Haeussler,Andrés Navarro,<NULL>,44,<NULL>,<NULL>,Amigo del Presidente Sebastián Piñera. Dueño de Sonda,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+854,Horst   ,Paulmann ,Kemna ,Horst Paulmann ,<NULL>,44,<NULL>,<NULL>,Dueño de la empresa de retail Cencosud y el tercer hombre más rico de Chile. ,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+855,Manfred  ,Paulmann ,Koepfer ,Manfred Paulmann ,<NULL>,44,<NULL>,<NULL>,Hijo mayor del empresario chileno alemán,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+856,Peter  ,Paulmann ,Koepfer ,Peter Paulmann,<NULL>,44,<NULL>,<NULL>,Segundo hijo del empresario chileno alemán,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+857,Heike  ,Paulmann ,Koepfer ,Heike Paulmann,<NULL>,44,<NULL>,<NULL>,Hija menor del empresario chileno alemán Horst Paulmann. Es miembro del directorio del holding Cencosud y en el año 1993,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+858,Jürgen   ,Paulmann ,Kemna ,Jürgen Paulmann,<NULL>,44,<NULL>,<NULL>,Dueño de la aerolínea Sky Airlines y hermano mayor de Horst Paulmann ,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+859,Gustavo  ,Pavez,Rodríguez,Gustavo Pavez,<NULL>,44,<NULL>,<NULL>,Accionista de Grupo Security y director del banco homónimo. Director y accionista del Hipódromo de Chile.,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+860,Pablo José ,Pérez ,Cruz,Pablo Pérez Cruz,<NULL>,44,<NULL>,<NULL>,,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+861,Andrés   ,Pérez ,Cruz,Andres Pérez Cruz ,<NULL>,44,<NULL>,<NULL>,Presidente del holding Empresas Familia Perez Cruz desde el año 2001,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+862,Matías   ,Pérez ,Cruz,,<NULL>,44,<NULL>,<NULL>,,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+863,Luis Eugenio ,Ponce,Lerou,Luis Ponce Lerou,<NULL>,44,<NULL>,<NULL>,Vicepresidente Comercial de Soquimich. Hermano de Julio Ponce Lerou,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+864,Julio César  ,Ponce,Pinochet,Julio Ponce,<NULL>,44,<NULL>,<NULL>,Hijo de Julio Ponce Lerou,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+865,Juan  ,Rassmuss,Echecopar,,<NULL>,44,<NULL>,<NULL>,Empresario peruano,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+866,Gonzalo  ,Rojas,Vildósola,Gonzalo Rojas,<NULL>,44,<NULL>,<NULL>,,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+867,José  ,Said,Saffie,Jose Said Saffie,<NULL>,44,<NULL>,<NULL>,El empresario de origen peruano,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+868,Salvador  ,Said,Somavía,Salvador Said Somavía,<NULL>,44,<NULL>,<NULL>,Hijo de José Said Saffie,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+869,Álvaro  ,Saieh,Bendeck,Alvaro Saieh,<NULL>,44,<NULL>,<NULL>,Empresario y propietario de COPESA,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+870,Liliana  ,Solari,Falabella,Liliana Solari,<NULL>,44,<NULL>,<NULL>,Junto a sus hermanas,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+871,Teresa Matilde ,Solari,Falabella,Teresa Solari,<NULL>,44,<NULL>,<NULL>,Junto a sus hermanas,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+872,María  Luisa ,Solari,Falabella,Luisa Solari,<NULL>,44,<NULL>,<NULL>,Junto a sus hermanas,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+873,Reinaldo  ,Solari,Magnasco,Reinaldo Solari,<NULL>,44,<NULL>,<NULL>,Patriarca de una de las familias controladoras de Falabella,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+874,Carlo  ,Solari,Donaggio,Carlo Solari,<NULL>,44,<NULL>,<NULL>,Hijo menor del clan Solari Donaggio,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+875,Richard  ,Von Appen,Lahres,Richard Von Appen,<NULL>,44,<NULL>,<NULL>,,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+876,Dag  ,Von Appen,Burose,Dag Von Appen,<NULL>,44,<NULL>,<NULL>,,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+877,Sven  ,Von Appen ,Behrmann,Sven Von Appen,<NULL>,44,<NULL>,<NULL>,,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+878,Wolf  ,Von Appen,Behrmann,Wolf Von Appen,<NULL>,44,<NULL>,<NULL>,,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+879,Luis Enrique ,Yarur,Rey,Luis Enrique Yarur,<NULL>,44,<NULL>,<NULL>,,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+880,Juan Carlos ,Yuraszceck ,Rey,Juan Carlos Yarur,<NULL>,44,<NULL>,<NULL>,,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
+881,José  ,Yuraszceck ,Troncoso,José Yuraszceck,<NULL>,44,<NULL>,<NULL>,,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,<NULL>,True,2012-08-08 17:51:32,<NULL>,2012-08-08 17:51:32,<NULL>
