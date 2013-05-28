@@ -1,0 +1,65 @@
+{{response.files.append('http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css')}}
+{{response.files.append('http://code.jquery.com/ui/1.10.3/jquery-ui.js')}}
+{{response.files.append(URL('static','js/jquery.optionTree.js'))}}
+
+{{extend 'layout.html'}}
+<h1></h1>
+
+{{=form.custom.begin}}
+<table>
+    <tr><td>{{=T('Persona')}}</td><td></td><td>{{=T('Relación')}}</td><td></td><td>{{=T('Persona')}}</td></tr>
+    
+    <tr><td>{{=form.custom.widget.origenP}}</td><td>es</td><td><input type="hidden" id="relPersona_relacion" name="relacion"  /></td><td>de</td><td>{{=form.custom.widget.destinoP}}</td></tr>
+    <tr><td></td><td></td><td>{{=db.relPersona.extraO.label}}<br>{{=form.custom.widget.extraO}}</td><td></td><td>{{=db.relPersona.extraLabel.label}}<br>{{=form.custom.widget.extraLabel}} </td></tr>
+    <tr><td colspan="5">Desde</td></tr>
+    <tr>
+        <td>{{=form.custom.widget.iniDay}}</td>
+        <td></td>
+        <td>{{=form.custom.widget.iniMonth}}</td>
+        <td></td>
+        <td>{{=form.custom.widget.iniYear}}</td>
+    </tr>
+    <tr><td colspan="5">Hasta</td></tr>
+    <tr>
+        <td>{{=form.custom.widget.finDay}}</td>
+        <td></td>
+        <td>{{=form.custom.widget.finMonth}}</td>
+        <td></td>
+        <td>{{=form.custom.widget.finYear}}</td>
+    </tr>
+    <tr><td colspan="4"></td><td>{{=db.relPersona.isPast.label}}{{=form.custom.widget.isPast}}</td></tr>
+    <tr><td colspan="5">{{=db.relPersona.documentSource.label}}{{=form.custom.widget.documentSource}}</td></tr>
+
+    <tr><td colspan="3"></td><td colspan="2"> {{=form.custom.submit}} </td></tr>
+    
+</table>
+{{=form.custom.end}}
+
+
+{{=back_button}}
+
+<script type="text/javascript">
+
+
+
+
+    $(function() {
+    var options = {
+        indexed: true,
+        select_class: 'vertical',
+        on_each_change: "{{=URL('default','call',args=['json','get_relacion'])}}",
+        preselect: {
+            'relacion': [{{ response.write(default, escape=False) }}]
+        },
+    };
+    var option_tree = {{response.write(option_tree+";", escape=False)}};
+
+    $('input[name=relacion]').optionTree(option_tree, options);
+
+
+
+
+
+    });
+</script>
+

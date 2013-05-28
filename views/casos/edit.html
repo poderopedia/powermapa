@@ -1,0 +1,16 @@
+{{response.files.append('http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css')}}
+{{response.files.append('http://code.jquery.com/ui/1.10.3/jquery-ui.js')}}
+{{ extend 'layout.html' }}
+{{=form}}
+
+
+<h2>{{=T('Conexiones con Personas')}}</h2>
+{{=LOAD('casos','conex_persona.load',vars=dict(caso_id=caso_id),ajax=True, user_signature=True)}}
+
+<h2>{{=T('Conexiones con Organizaciones/Empresas')}}</h2>
+{{=LOAD('casos','conex_orgs.load',vars=dict(caso_id=caso_id),ajax=True, user_signature=True)}}
+
+
+
+
+

@@ -1,0 +1,19 @@
+{{response.files.append('http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css')}}
+{{response.files.append('http://code.jquery.com/ui/1.10.3/jquery-ui.js')}}
+{{extend 'layout.html'}}
+<h1>{{=T('Relaciones Familiares')}}</h1>
+{{=form.custom.begin}}
+<table>
+<tr>
+<td>{{=form.custom.widget.origenP}}</td><td>es</td><td>{{=form.custom.widget.parentesco}}</td><td>de</td><td>{{=form.custom.widget.destinoP}}{{db.relFamiliar.destinoP}}</td>
+</tr>
+<tr><td colspan="5">{{=db.relFamiliar.documentSource.label}}:{{=form.custom.widget.documentSource}}</td></tr>
+<tr>
+<td></td><td></td><td></td><td></td><td>{{=form.custom.submit}}</td>
+</tr>
+</table>
+{{=form.custom.end}}
+
+{{=A(TAG.BUTTON(T('Volver'),_class='button'),_href=URL('personas','index',vars=dict(keywords='persona.id="'+str(persona)+'"')))}}
+
+

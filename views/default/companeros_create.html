@@ -1,0 +1,31 @@
+{{extend 'layout.html'}}
+<b>{{=parent}}</b>
+{{=form}}
+<input type='button' value="{{=T('añadir Fuente')}}" class='link' id="fuente">
+<div id="dialog-form" title="{{=T('añadir Fuente')}}">
+    {{=formFuente}}
+</div>
+<script type="text/javascript">
+    $( "#dialog-form" ).dialog({
+        autoOpen: false,
+        height: 410,
+        width: 500,
+        modal: true,
+        buttons: {
+            Cancel: function() {
+                $( this ).dialog( "close" );
+            }
+        },
+        close: function() {
+            allFields.val( "" ).removeClass( "ui-state-error" );
+        }
+    });
+
+    $( "#fuente" )
+            .button()
+            .click(function() {
+                $( "#dialog-form" ).dialog( "open" );
+            });
+
+</script>
+
