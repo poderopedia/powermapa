@@ -34,13 +34,13 @@ nosetests.xml
 .project
 .pydevproject
 
+
 .idea/
 cache/
 databases/
 errors/
 sessions/
 modules/__init__.pyc
-private/auth.key
 databases/sql.log
 *.pyc
 *.orig
@@ -49,3 +49,4 @@ databases/sql.log
 *.sql
 *.bak
 *.orig
+
