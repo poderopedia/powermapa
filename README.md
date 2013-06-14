@@ -39,7 +39,7 @@ You must write your settings in these 3 files.
 
 ##Testing the Installation
 In localhost, you must check http://localhost:8000/powermapa
-At this point you have created all data models in your database, you only need Pre-poluate some data. Before this you need change the migrate attribute in the file 0.py from True to False, for example: `settings.migrate=False`
+At this point you have created all data models in your database, you only need Pre-polulate some data. Before this you need change the migrate attribute in the file 0.py from True to False, for example: `settings.migrate=False`
 
 
 ##Pre - Populate:
