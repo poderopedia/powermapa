@@ -1,7 +1,7 @@
 __author__ = 'Evolutiva'
 from documentCloud import document_cloud
 
-#document Cloud Table
+#documentCloud settings
 dc_username='documentCloud_username'
 dc_password='documentCloud_password'
 
